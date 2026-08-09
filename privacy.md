@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy
+---
+
 ### 한국어
 
 **SmallButBig 개인정보처리방침**

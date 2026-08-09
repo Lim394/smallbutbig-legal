@@ -1,3 +1,8 @@
+---
+title: Support
+permalink: /support
+---
+
 ### 한국어
 
 **SmallButBig 지원**
@@ -7,7 +12,7 @@
 
 보통 48시간 이내에 답변드립니다.
 
-개인정보처리방침은 [여기](privacy.md)에서 확인하실 수 있습니다.
+개인정보처리방침은 [여기](/privacy)에서 확인하실 수 있습니다.
 
 ### English
 
@@ -18,4 +23,4 @@ For questions, bug reports, or feature requests, email us at:
 
 We usually reply within 48 hours.
 
-See our [Privacy Policy](privacy.md).
+See our [Privacy Policy](/privacy).
