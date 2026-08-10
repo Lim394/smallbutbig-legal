@@ -24,3 +24,47 @@ For questions, bug reports, or feature requests, email us at:
 We usually reply within 48 hours.
 
 See our [Privacy Policy](/privacy).
+
+### 日本語
+
+**SmallButBig サポート**
+
+ご質問、不具合のご報告、機能のご要望は下記のメールアドレスへお送りください。
+**smallbutbig.app@gmail.com**
+
+通常48時間以内に返信します。
+
+プライバシーポリシーは[こちら](/privacy)からご確認いただけます。
+
+### 简体中文
+
+**SmallButBig 支持**
+
+有问题、发现 Bug 或想提功能建议，请发邮件到：
+**smallbutbig.app@gmail.com**
+
+我们通常在 48 小时内回复。
+
+请查看我们的[隐私政策](/privacy)。
+
+### Deutsch
+
+**SmallButBig Support**
+
+Fragen, Fehlerberichte oder Wünsche? Schreib uns:
+**smallbutbig.app@gmail.com**
+
+Wir antworten in der Regel innerhalb von 48 Stunden.
+
+Hier geht's zur [Datenschutzerklärung](/privacy).
+
+### हिन्दी
+
+**SmallButBig सहायता**
+
+सवाल, बग की जानकारी या फ़ीचर के सुझाव इस पते पर भेजें:
+**smallbutbig.app@gmail.com**
+
+हम आम तौर पर 48 घंटे के भीतर जवाब देते हैं।
+
+हमारी [गोपनीयता नीति](/privacy) यहाँ देखें।
