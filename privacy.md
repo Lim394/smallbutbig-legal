@@ -6,9 +6,9 @@ permalink: /privacy
 ### 한국어
 
 **SmallButBig 개인정보처리방침**
-최종 수정일: 2026-08-10
+최종 수정일: 2026-08-19
 
-SmallButBig("이 앱")은 SmallButBig 개발팀(1인 개발)이 만들고 운영합니다. 문의: **smallbutbig.app@gmail.com**
+SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대표 임준범, 사업자등록번호 237-33-01894 — 이 만들고 운영합니다. 문의: **smallbutbig.app@gmail.com**
 
 **1. 요약**
 여러분이 앱에 적은 내용(일정·할 일·메모 등)은 **여러분의 기기와 여러분 소유의 iCloud 계정에만** 저장되며, 개발자는 그 내용에 접근할 수 없습니다. 별개로, 앱을 어떻게 개선할지 판단하기 위한 **익명 사용 통계**(숫자와 정해진 항목값만)를 수집합니다. 구글·페이스북 등 **제3자 서버는 일절 사용하지 않습니다.**
@@ -50,9 +50,9 @@ SmallButBig("이 앱")은 SmallButBig 개발팀(1인 개발)이 만들고 운영
 ### English
 
 **SmallButBig Privacy Policy**
-Last updated: 2026-08-10
+Last updated: 2026-08-19
 
-SmallButBig ("the App") is made and operated by the SmallButBig team (an independent, one-person developer). Contact: **smallbutbig.app@gmail.com**
+SmallButBig ("the App") is made and operated by **SmallButBig**, a sole-proprietor business registered in South Korea (owner: Junbeom Lim, business registration no. 237-33-01894). Contact: **smallbutbig.app@gmail.com**
 
 **1. Summary**
 Everything you write in the app (schedules, tasks, notes) stays **on your device and in your own iCloud account**, and we cannot read it. Separately, we collect **anonymous usage statistics** — counters and fixed option values only — to decide how to improve the app. We use **no third-party servers** such as Google or Meta.
@@ -94,9 +94,9 @@ This policy may be updated as the app evolves. The "Last updated" date above wil
 ### 日本語
 
 **SmallButBig プライバシーポリシー**
-最終更新日: 2026-08-10
+最終更新日: 2026-08-19
 
-SmallButBig（「本アプリ」）は SmallButBig 開発チーム（個人開発）が制作・運営しています。お問い合わせ: **smallbutbig.app@gmail.com**
+SmallButBig（「本アプリ」）は、韓国で登録された個人事業者 **SmallButBig**（代表: Junbeom Lim、事業者登録番号 237-33-01894）が制作・運営しています。お問い合わせ: **smallbutbig.app@gmail.com**
 
 **1. 概要**
 アプリに書いた内容（予定・タスク・メモなど）は**お使いの端末と、ご本人のiCloudアカウントにのみ**保存され、開発者はその内容にアクセスできません。これとは別に、アプリをどう改善するか判断するための**匿名の利用統計**（数値と、決められた項目の値のみ）を収集します。Google・Meta などの**第三者サーバーは一切使用しません。**
@@ -138,9 +138,9 @@ SmallButBig（「本アプリ」）は SmallButBig 開発チーム（個人開�
 ### 简体中文
 
 **SmallButBig 隐私政策**
-最后更新：2026-08-10
+最后更新：2026-08-19
 
-SmallButBig（“本应用”）由 SmallButBig 开发团队（个人开发者）制作并运营。联系方式：**smallbutbig.app@gmail.com**
+SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButBig**（代表人：Junbeom Lim，事业者登记号 237-33-01894）制作并运营。联系方式：**smallbutbig.app@gmail.com**
 
 **1. 概要**
 你在应用里写下的内容（日程、待办、备注等）只保存在**你的设备和你自己的 iCloud 账户里**，开发者无法读取。另外，为了判断如何改进应用，我们会收集**匿名使用统计**（只有数字和固定的选项值）。**完全不使用** Google、Meta 等第三方服务器。
@@ -182,9 +182,9 @@ SmallButBig（“本应用”）由 SmallButBig 开发团队（个人开发者�
 ### Deutsch
 
 **SmallButBig Datenschutzerklärung**
-Zuletzt aktualisiert: 2026-08-10
+Zuletzt aktualisiert: 2026-08-19
 
-SmallButBig („die App“) wird vom SmallButBig-Team (unabhängiger Einzelentwickler) erstellt und betrieben. Kontakt: **smallbutbig.app@gmail.com**
+SmallButBig („die App“) wird von **SmallButBig**, einem in Südkorea eingetragenen Einzelunternehmen (Inhaber: Junbeom Lim, Unternehmensregisternummer 237-33-01894), erstellt und betrieben. Kontakt: **smallbutbig.app@gmail.com**
 
 **1. Kurz gesagt**
 Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf deinem Gerät und in deiner eigenen iCloud** — wir können es nicht lesen. Davon getrennt erheben wir **anonyme Nutzungsstatistiken** — nur Zähler und feste Auswahlwerte —, um zu entscheiden, wie wir die App verbessern. Wir nutzen **keine Server Dritter** wie Google oder Meta.
@@ -226,9 +226,9 @@ Diese Erklärung kann sich mit der App weiterentwickeln. Das Datum „Zuletzt ak
 ### हिन्दी
 
 **SmallButBig गोपनीयता नीति**
-अंतिम अपडेट: 2026-08-10
+अंतिम अपडेट: 2026-08-19
 
-SmallButBig ("यह ऐप") को SmallButBig टीम (एक स्वतंत्र, एकल डेवलपर) बनाती और चलाती है। संपर्क: **smallbutbig.app@gmail.com**
+SmallButBig ("यह ऐप") को दक्षिण कोरिया में पंजीकृत एकल-स्वामित्व व्यवसाय **SmallButBig** (स्वामी: Junbeom Lim, व्यवसाय पंजीकरण सं. 237-33-01894) बनाता और चलाता है। संपर्क: **smallbutbig.app@gmail.com**
 
 **1. सार**
 आप ऐप में जो कुछ लिखते हैं (इवेंट, काम, नोट) वह **आपकी डिवाइस और आपके अपने iCloud खाते में** ही रहता है; हम उसे पढ़ नहीं सकते। इससे अलग, ऐप को कैसे बेहतर बनाया जाए यह तय करने के लिए हम **गुमनाम उपयोग आँकड़े** इकट्ठा करते हैं — सिर्फ़ गिनतियाँ और तय विकल्प-मान। Google या Meta जैसे **किसी तीसरे पक्ष के सर्वर का इस्तेमाल नहीं होता।**
