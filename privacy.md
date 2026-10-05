@@ -6,7 +6,7 @@ permalink: /privacy
 ### 한국어
 
 **SmallButBig 개인정보처리방침**
-최종 수정일: 2026-08-19
+최종 수정일: 2026-10-06
 
 SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대표 임준범, 사업자등록번호 237-33-01894 — 이 만들고 운영합니다. 문의: **smallbutbig.app@gmail.com**
 
@@ -25,12 +25,13 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
   - 보유한 할 일 개수의 **구간** (예: `11-50`) — 정확한 숫자는 저장하지 않습니다
   - 날짜는 **일 단위**(예: `2026-08-10`)로만 기록하며, 시·분·초는 저장하지 않습니다
   - 앱 버전, 플랫폼(iOS/macOS)
+  - (iOS만) Apple 광고(Apple Ads)를 보고 설치했는지와, 그렇다면 그 광고의 캠페인·광고 그룹·키워드 **번호**, 광고를 눌렀는지 보기만 했는지, 날짜(일 단위). Apple이 AdServices로 알려 주는 값을 설치마다 한 번 받아 적습니다. 다른 앱·웹사이트에서의 활동과 연결하는 추적이 아니어서 추적 허가를 묻지 않습니다.
 
   **일정 제목, 폴더 이름, 메모, 장소 등 여러분이 직접 입력한 내용은 이 통계에 절대 포함되지 않습니다.** 설치 1건당 집계 기록 하나만 유지하며, 개별 행동을 시간순으로 추적하지 않습니다. Apple의 CloudKit 특성상 이 기록에는 계정을 가리키는 익명 식별자가 Apple 서버에서 자동으로 부여되지만, 이 앱은 그 값을 읽거나 조회 조건으로 사용하지 않습니다.
-- **제3자 애널리틱스·광고**: 이 앱은 어떠한 제3자 분석(애널리틱스)·광고 SDK도 사용하지 않습니다. Google Analytics, Firebase, Meta 등 외부 업체로 데이터가 전송되는 일은 없습니다.
+- **제3자 애널리틱스·광고**: 이 앱은 어떠한 제3자 분석(애널리틱스)·광고 SDK도 사용하지 않습니다. Google Analytics, Firebase, Meta 등 외부 업체로 데이터가 전송되는 일은 없습니다. 위의 Apple 광고 정보는 Apple이 제공하는 AdServices로만 받습니다.
 
 **3. 제3자 제공**
-이 앱은 위 2항에 명시된 Apple(iCloud, CloudKit, App Store 결제) 외에 어떠한 제3자에게도 개인정보를 제공·공유·판매하지 않습니다. 별도의 회원가입·계정 시스템이 없으므로, 개발자가 보유한 이용자 개인정보(이메일, 이름 등)도 없습니다.
+이 앱은 위 2항에 명시된 Apple(iCloud, CloudKit, App Store 결제, Apple 광고 정보) 외에 어떠한 제3자에게도 개인정보를 제공·공유·판매하지 않습니다. 별도의 회원가입·계정 시스템이 없으므로, 개발자가 보유한 이용자 개인정보(이메일, 이름 등)도 없습니다.
 
 **4. 데이터 보관 및 삭제**
 - 기기 내 데이터: 앱을 삭제하면 기기에 저장된 데이터도 함께 삭제됩니다.
@@ -50,7 +51,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
 ### English
 
 **SmallButBig Privacy Policy**
-Last updated: 2026-08-19
+Last updated: 2026-10-06
 
 SmallButBig ("the App") is made and operated by **SmallButBig**, a sole-proprietor business registered in South Korea (owner: Junbeom Lim, business registration no. 237-33-01894). Contact: **smallbutbig.app@gmail.com**
 
@@ -69,12 +70,13 @@ Everything you write in the app (schedules, tasks, notes) stays **on your device
   - A **range** for how many tasks you have (e.g. `11-50`) — never the exact number
   - Dates recorded **by day only** (e.g. `2026-08-10`); no hour, minute, or second
   - App version and platform (iOS/macOS)
+  - (iOS only) Whether you installed the app from an Apple Ads ad and, if so, that ad's campaign, ad group, and keyword **numbers**, whether you tapped the ad or only saw it, and the date (by day). We receive these values from Apple's AdServices once per installation. This is not tracking across other apps or websites, so the app does not ask for tracking permission.
 
   **Task titles, folder names, notes, places, and anything else you type are never included.** We keep a single aggregate record per installation and do not trace individual actions over time. Because of how Apple's CloudKit works, Apple's servers automatically attach an anonymous account identifier to this record; our app never reads that value or uses it to look anything up.
-- **Third-party analytics & advertising**: This app uses no third-party analytics or advertising SDK. No data is sent to outside companies such as Google Analytics, Firebase, or Meta.
+- **Third-party analytics & advertising**: This app uses no third-party analytics or advertising SDK. No data is sent to outside companies such as Google Analytics, Firebase, or Meta. The Apple Ads information above comes only from Apple's own AdServices.
 
 **3. Third-party sharing**
-Other than Apple (for iCloud sync, CloudKit, and App Store payments, described above), this app does not share, sell, or provide personal data to any third party. There is no account/login system, so we hold no personal data (email, name, etc.) about you ourselves.
+Other than Apple (for iCloud sync, CloudKit, App Store payments, and Apple Ads information, described above), this app does not share, sell, or provide personal data to any third party. There is no account/login system, so we hold no personal data (email, name, etc.) about you ourselves.
 
 **4. Retention & deletion**
 - On-device data is deleted when you delete the app.
@@ -94,7 +96,7 @@ This policy may be updated as the app evolves. The "Last updated" date above wil
 ### 日本語
 
 **SmallButBig プライバシーポリシー**
-最終更新日: 2026-08-19
+最終更新日: 2026-10-06
 
 SmallButBig（「本アプリ」）は、韓国で登録された個人事業者 **SmallButBig**（代表: Junbeom Lim、事業者登録番号 237-33-01894）が制作・運営しています。お問い合わせ: **smallbutbig.app@gmail.com**
 
@@ -113,12 +115,13 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
   - 持っているタスク数の**範囲**（例: `11-50`）— 正確な数は保存しません
   - 日付は**日単位**（例: `2026-08-10`）でのみ記録し、時・分・秒は保存しません
   - アプリのバージョン、プラットフォーム（iOS/macOS）
+  - （iOSのみ）Apple 広告（Apple Ads）を見てインストールしたかどうかと、その場合はその広告のキャンペーン・広告グループ・キーワードの**番号**、広告をタップしたか見ただけか、日付（日単位）。Apple が AdServices で知らせる値を、インストールごとに一度だけ受け取って記録します。他のアプリやウェブサイトでの行動と結びつける追跡ではないため、トラッキングの許可は求めません。
 
   **予定のタイトル、フォルダ名、メモ、場所など、ご自身で入力した内容がこの統計に含まれることは決してありません。** インストール1件につき集計レコードを1つだけ保持し、個々の行動を時系列で追跡することはありません。Apple の CloudKit の仕組み上、このレコードにはアカウントを指す匿名の識別子が Apple のサーバーによって自動的に付与されますが、本アプリはその値を読み取ることも、検索の条件として使うこともありません。
-- **第三者アナリティクス・広告**: 本アプリは第三者の分析（アナリティクス）・広告SDKを一切使用しません。Google Analytics、Firebase、Meta などの外部企業へデータが送られることはありません。
+- **第三者アナリティクス・広告**: 本アプリは第三者の分析（アナリティクス）・広告SDKを一切使用しません。Google Analytics、Firebase、Meta などの外部企業へデータが送られることはありません。上記の Apple 広告の情報は、Apple が提供する AdServices からのみ受け取ります。
 
 **3. 第三者提供**
-本アプリは、上記2項に記載した Apple（iCloud、CloudKit、App Store 決済）以外のいかなる第三者にも、個人情報を提供・共有・販売しません。会員登録やアカウントの仕組みがないため、開発者が保有する利用者の個人情報（メールアドレス、氏名など）もありません。
+本アプリは、上記2項に記載した Apple（iCloud、CloudKit、App Store 決済、Apple 広告の情報）以外のいかなる第三者にも、個人情報を提供・共有・販売しません。会員登録やアカウントの仕組みがないため、開発者が保有する利用者の個人情報（メールアドレス、氏名など）もありません。
 
 **4. データの保管と削除**
 - 端末内のデータ: アプリを削除すると、端末に保存されたデータも一緒に削除されます。
@@ -138,7 +141,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
 ### 简体中文
 
 **SmallButBig 隐私政策**
-最后更新：2026-08-19
+最后更新：2026-10-06
 
 SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButBig**（代表人：Junbeom Lim，事业者登记号 237-33-01894）制作并运营。联系方式：**smallbutbig.app@gmail.com**
 
@@ -157,12 +160,13 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
   - 待办数量所在的**区间**（如 `11-50`）——不记录准确数字
   - 日期只记录到**天**（如 `2026-08-10`），不保存时、分、秒
   - 应用版本、平台（iOS/macOS）
+  - （仅限 iOS）是否通过 Apple 广告（Apple Ads）安装；如果是，记录该广告的广告系列、广告组和关键词的**编号**，你是点击了广告还是只看到了广告，以及日期（精确到天）。这些值由 Apple 的 AdServices 提供，每次安装只接收一次。这不是跨其他应用或网站的追踪，因此本应用不会请求追踪许可。
 
   **日程标题、文件夹名称、备注、地点等你亲手输入的内容，绝不会包含在这些统计里。** 每次安装只保留一条汇总记录，不会按时间顺序追踪你的每一步操作。由于 Apple CloudKit 的机制，Apple 的服务器会自动为这条记录附加一个指向账户的匿名标识符，但本应用从不读取该值，也不会用它作为查询条件。
-- **第三方分析与广告**：本应用不使用任何第三方分析或广告 SDK。不会向 Google Analytics、Firebase、Meta 等外部公司发送数据。
+- **第三方分析与广告**：本应用不使用任何第三方分析或广告 SDK。不会向 Google Analytics、Firebase、Meta 等外部公司发送数据。上述 Apple 广告信息只通过 Apple 自己提供的 AdServices 获得。
 
 **3. 第三方共享**
-除上述第 2 条中说明的 Apple（iCloud 同步、CloudKit、App Store 支付）之外，本应用不会向任何第三方提供、共享或出售个人信息。应用没有注册／登录系统，因此开发者手中也没有你的个人信息（邮箱、姓名等）。
+除上述第 2 条中说明的 Apple（iCloud 同步、CloudKit、App Store 支付、Apple 广告信息）之外，本应用不会向任何第三方提供、共享或出售个人信息。应用没有注册／登录系统，因此开发者手中也没有你的个人信息（邮箱、姓名等）。
 
 **4. 数据保留与删除**
 - 设备上的数据：删除应用时，设备上保存的数据也会一并删除。
@@ -182,7 +186,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
 ### Deutsch
 
 **SmallButBig Datenschutzerklärung**
-Zuletzt aktualisiert: 2026-08-19
+Zuletzt aktualisiert: 2026-10-06
 
 SmallButBig („die App“) wird von **SmallButBig**, einem in Südkorea eingetragenen Einzelunternehmen (Inhaber: Junbeom Lim, Unternehmensregisternummer 237-33-01894), erstellt und betrieben. Kontakt: **smallbutbig.app@gmail.com**
 
@@ -201,12 +205,13 @@ Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf de
   - Eine **Spanne**, wie viele Aufgaben du hast (z. B. `11-50`) — nie die genaue Zahl
   - Datumsangaben **nur tagesgenau** (z. B. `2026-08-10`), ohne Stunde, Minute oder Sekunde
   - App-Version und Plattform (iOS/macOS)
+  - (nur iOS) Ob du die App über eine Apple-Ads-Anzeige installiert hast und, falls ja, die **Nummern** von Kampagne, Anzeigengruppe und Keyword dieser Anzeige, ob du die Anzeige angetippt oder nur gesehen hast, sowie das Datum (tagesgenau). Diese Werte erhalten wir einmal pro Installation von Apples AdServices. Das ist kein Tracking über andere Apps oder Websites hinweg, deshalb fragt die App nicht nach einer Tracking-Erlaubnis.
 
   **Titel von Terminen, Ordnernamen, Notizen, Orte und alles andere, was du eintippst, sind nie dabei.** Wir behalten pro Installation genau einen zusammengefassten Datensatz und verfolgen keine einzelnen Handlungen über die Zeit. Technisch bedingt hängt Apples CloudKit diesem Datensatz auf Apples Servern automatisch eine anonyme Konto-Kennung an; unsere App liest diesen Wert nie und schlägt damit auch nichts nach.
-- **Analyse-Dienste & Werbung Dritter**: Diese App nutzt kein Analyse- oder Werbe-SDK von Dritten. Es gehen keine Daten an externe Firmen wie Google Analytics, Firebase oder Meta.
+- **Analyse-Dienste & Werbung Dritter**: Diese App nutzt kein Analyse- oder Werbe-SDK von Dritten. Es gehen keine Daten an externe Firmen wie Google Analytics, Firebase oder Meta. Die oben genannten Apple-Ads-Angaben stammen ausschließlich aus Apples eigenem AdServices.
 
 **3. Weitergabe an Dritte**
-Außer an Apple (für iCloud-Sync, CloudKit und App-Store-Zahlungen, siehe Punkt 2) gibt diese App keine personenbezogenen Daten an Dritte weiter, teilt oder verkauft sie. Es gibt kein Konto- oder Login-System, deshalb liegen bei uns auch keine personenbezogenen Daten (E-Mail, Name usw.) über dich.
+Außer an Apple (für iCloud-Sync, CloudKit, App-Store-Zahlungen und Apple-Ads-Angaben, siehe Punkt 2) gibt diese App keine personenbezogenen Daten an Dritte weiter, teilt oder verkauft sie. Es gibt kein Konto- oder Login-System, deshalb liegen bei uns auch keine personenbezogenen Daten (E-Mail, Name usw.) über dich.
 
 **4. Aufbewahrung & Löschung**
 - Daten auf dem Gerät werden gelöscht, sobald du die App löschst.
@@ -226,7 +231,7 @@ Diese Erklärung kann sich mit der App weiterentwickeln. Das Datum „Zuletzt ak
 ### हिन्दी
 
 **SmallButBig गोपनीयता नीति**
-अंतिम अपडेट: 2026-08-19
+अंतिम अपडेट: 2026-10-06
 
 SmallButBig ("यह ऐप") को दक्षिण कोरिया में पंजीकृत एकल-स्वामित्व व्यवसाय **SmallButBig** (स्वामी: Junbeom Lim, व्यवसाय पंजीकरण सं. 237-33-01894) बनाता और चलाता है। संपर्क: **smallbutbig.app@gmail.com**
 
@@ -245,12 +250,13 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
   - आपके पास कितने काम हैं, उसका **दायरा** (जैसे `11-50`) — सटीक संख्या कभी नहीं
   - तारीख़ सिर्फ़ **दिन के स्तर पर** (जैसे `2026-08-10`); घंटा, मिनट या सेकंड नहीं
   - ऐप का संस्करण और प्लैटफ़ॉर्म (iOS/macOS)
+  - (सिर्फ़ iOS) आपने ऐप Apple Ads के किसी विज्ञापन से इंस्टॉल किया या नहीं; अगर हाँ, तो उस विज्ञापन के कैंपेन, ऐड ग्रुप और कीवर्ड के **नंबर**, आपने विज्ञापन पर टैप किया या सिर्फ़ देखा, और तारीख़ (दिन के स्तर पर)। ये मान हर इंस्टॉल पर एक बार Apple के AdServices से मिलते हैं। यह दूसरे ऐप या वेबसाइटों की गतिविधि से जोड़ने वाली ट्रैकिंग नहीं है, इसलिए ऐप ट्रैकिंग की अनुमति नहीं माँगता।
 
   **इवेंट के शीर्षक, फ़ोल्डर के नाम, नोट, जगह — आपका लिखा कुछ भी इन आँकड़ों में कभी शामिल नहीं होता।** हर इंस्टॉल के लिए सिर्फ़ एक सारांश रिकॉर्ड रखा जाता है; आपकी अलग-अलग गतिविधियों को समय के क्रम में ट्रैक नहीं किया जाता। Apple के CloudKit की बनावट के कारण Apple के सर्वर इस रिकॉर्ड के साथ खाते का एक गुमनाम पहचानकर्ता अपने-आप जोड़ देते हैं, पर यह ऐप उस मान को न कभी पढ़ता है, न उसे खोज की शर्त के रूप में इस्तेमाल करता है।
-- **तीसरे पक्ष के एनालिटिक्स और विज्ञापन**: यह ऐप किसी भी तीसरे पक्ष के एनालिटिक्स या विज्ञापन SDK का इस्तेमाल नहीं करता। Google Analytics, Firebase या Meta जैसी बाहरी कंपनियों को कोई डेटा नहीं भेजा जाता।
+- **तीसरे पक्ष के एनालिटिक्स और विज्ञापन**: यह ऐप किसी भी तीसरे पक्ष के एनालिटिक्स या विज्ञापन SDK का इस्तेमाल नहीं करता। Google Analytics, Firebase या Meta जैसी बाहरी कंपनियों को कोई डेटा नहीं भेजा जाता। ऊपर बताई गई Apple Ads की जानकारी सिर्फ़ Apple के अपने AdServices से मिलती है।
 
 **3. तीसरे पक्ष को साझा करना**
-ऊपर बिंदु 2 में बताए गए Apple (iCloud सिंक, CloudKit, App Store भुगतान) के अलावा यह ऐप किसी भी तीसरे पक्ष को व्यक्तिगत जानकारी न देता है, न साझा करता है, न बेचता है। ऐप में खाता/लॉगिन जैसी कोई व्यवस्था नहीं है, इसलिए आपकी व्यक्तिगत जानकारी (ईमेल, नाम आदि) हमारे पास है ही नहीं।
+ऊपर बिंदु 2 में बताए गए Apple (iCloud सिंक, CloudKit, App Store भुगतान, Apple Ads की जानकारी) के अलावा यह ऐप किसी भी तीसरे पक्ष को व्यक्तिगत जानकारी न देता है, न साझा करता है, न बेचता है। ऐप में खाता/लॉगिन जैसी कोई व्यवस्था नहीं है, इसलिए आपकी व्यक्तिगत जानकारी (ईमेल, नाम आदि) हमारे पास है ही नहीं।
 
 **4. डेटा रखना और मिटाना**
 - डिवाइस का डेटा: ऐप हटाते ही डिवाइस में सहेजा डेटा भी मिट जाता है।
