@@ -24,7 +24,8 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
   - 어떤 기능(습관·이동시간·반복·세부 할 일)을 사용했는지
   - 보유한 할 일 개수의 **구간** (예: `11-50`) — 정확한 숫자는 저장하지 않습니다
   - 날짜는 **일 단위**(예: `2026-08-10`)로만 기록하며, 시·분·초는 저장하지 않습니다
-  - 앱 버전, 플랫폼(iOS/macOS)
+  - 앱 버전(처음 쓰기 시작한 판과 지금 판), 플랫폼(iOS/macOS)
+  - 결제 기록: 무료 체험을 시작한 날, 처음으로 실제 결제가 된 날과 그 요금제(월간·연간·평생), 오퍼 코드로 받은 날, 환불이 확인된 날, 결제 재시도가 시작되고 끝난 날 — 모두 일 단위. App Store가 확인한 거래만 보며, 금액·통화·결제 수단은 남기지 않습니다.
   - (iOS만) Apple 광고(Apple Ads)를 보고 설치했는지와, 그렇다면 그 광고의 캠페인·광고 그룹·키워드 **번호**, 광고를 눌렀는지 보기만 했는지, 날짜(일 단위). Apple이 AdServices로 알려 주는 값을 설치마다 한 번 받아 적습니다. 다른 앱·웹사이트에서의 활동과 연결하는 추적이 아니어서 추적 허가를 묻지 않습니다.
 
   **일정 제목, 폴더 이름, 메모, 장소 등 여러분이 직접 입력한 내용은 이 통계에 절대 포함되지 않습니다.** 설치 1건당 집계 기록 하나만 유지하며, 개별 행동을 시간순으로 추적하지 않습니다. Apple의 CloudKit 특성상 이 기록에는 계정을 가리키는 익명 식별자가 Apple 서버에서 자동으로 부여되지만, 이 앱은 그 값을 읽거나 조회 조건으로 사용하지 않습니다.
@@ -69,7 +70,8 @@ Everything you write in the app (schedules, tasks, notes) stays **on your device
   - Which features (habits, transit time, recurrence, subtasks) you used
   - A **range** for how many tasks you have (e.g. `11-50`) — never the exact number
   - Dates recorded **by day only** (e.g. `2026-08-10`); no hour, minute, or second
-  - App version and platform (iOS/macOS)
+  - App version (the version you started with and the current one) and platform (iOS/macOS)
+  - Purchase milestones: the day a free trial started, the day you were first actually charged and which plan (monthly, yearly, lifetime), the day you redeemed an offer code, the day a refund was confirmed, and the days a billing retry started and ended — all by day only. Only transactions verified by the App Store are used; no amounts, currency, or payment method are stored.
   - (iOS only) Whether you installed the app from an Apple Ads ad and, if so, that ad's campaign, ad group, and keyword **numbers**, whether you tapped the ad or only saw it, and the date (by day). We receive these values from Apple's AdServices once per installation. This is not tracking across other apps or websites, so the app does not ask for tracking permission.
 
   **Task titles, folder names, notes, places, and anything else you type are never included.** We keep a single aggregate record per installation and do not trace individual actions over time. Because of how Apple's CloudKit works, Apple's servers automatically attach an anonymous account identifier to this record; our app never reads that value or uses it to look anything up.
@@ -114,7 +116,8 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
   - どの機能（習慣・移動時間・繰り返し・チェックリスト）を使ったか
   - 持っているタスク数の**範囲**（例: `11-50`）— 正確な数は保存しません
   - 日付は**日単位**（例: `2026-08-10`）でのみ記録し、時・分・秒は保存しません
-  - アプリのバージョン、プラットフォーム（iOS/macOS）
+  - アプリのバージョン（使い始めたときのバージョンと現在のバージョン）、プラットフォーム（iOS/macOS）
+  - 購入の記録：無料体験を始めた日、初めて実際に課金された日とそのプラン（月額・年額・買い切り）、オファーコードを使った日、返金が確認された日、支払いの再試行が始まった日と終わった日 — いずれも日単位。App Store が確認した取引だけを使い、金額・通貨・支払い方法は保存しません。
   - （iOSのみ）Apple 広告（Apple Ads）を見てインストールしたかどうかと、その場合はその広告のキャンペーン・広告グループ・キーワードの**番号**、広告をタップしたか見ただけか、日付（日単位）。Apple が AdServices で知らせる値を、インストールごとに一度だけ受け取って記録します。他のアプリやウェブサイトでの行動と結びつける追跡ではないため、トラッキングの許可は求めません。
 
   **予定のタイトル、フォルダ名、メモ、場所など、ご自身で入力した内容がこの統計に含まれることは決してありません。** インストール1件につき集計レコードを1つだけ保持し、個々の行動を時系列で追跡することはありません。Apple の CloudKit の仕組み上、このレコードにはアカウントを指す匿名の識別子が Apple のサーバーによって自動的に付与されますが、本アプリはその値を読み取ることも、検索の条件として使うこともありません。
@@ -159,7 +162,8 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
   - 使用了哪些功能（习惯、出行时间、重复、子任务）
   - 待办数量所在的**区间**（如 `11-50`）——不记录准确数字
   - 日期只记录到**天**（如 `2026-08-10`），不保存时、分、秒
-  - 应用版本、平台（iOS/macOS）
+  - 应用版本（开始使用时的版本和当前版本）、平台（iOS/macOS）
+  - 购买记录：开始免费试用的日期、首次实际扣款的日期及其套餐（月度、年度、终身）、兑换优惠码的日期、确认退款的日期、扣款重试开始和结束的日期——都只记录到天。只使用经 App Store 验证的交易，不保存金额、币种或支付方式。
   - （仅限 iOS）是否通过 Apple 广告（Apple Ads）安装；如果是，记录该广告的广告系列、广告组和关键词的**编号**，你是点击了广告还是只看到了广告，以及日期（精确到天）。这些值由 Apple 的 AdServices 提供，每次安装只接收一次。这不是跨其他应用或网站的追踪，因此本应用不会请求追踪许可。
 
   **日程标题、文件夹名称、备注、地点等你亲手输入的内容，绝不会包含在这些统计里。** 每次安装只保留一条汇总记录，不会按时间顺序追踪你的每一步操作。由于 Apple CloudKit 的机制，Apple 的服务器会自动为这条记录附加一个指向账户的匿名标识符，但本应用从不读取该值，也不会用它作为查询条件。
@@ -204,7 +208,8 @@ Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf de
   - Welche Funktionen (Gewohnheiten, Anfahrtszeit, Wiederholung, Checklisten) du benutzt hast
   - Eine **Spanne**, wie viele Aufgaben du hast (z. B. `11-50`) — nie die genaue Zahl
   - Datumsangaben **nur tagesgenau** (z. B. `2026-08-10`), ohne Stunde, Minute oder Sekunde
-  - App-Version und Plattform (iOS/macOS)
+  - App-Version (die Version, mit der du angefangen hast, und die aktuelle) und Plattform (iOS/macOS)
+  - Kauf-Meilensteine: der Tag, an dem ein Gratis-Test begann, der Tag der ersten tatsächlichen Abbuchung und der Tarif (monatlich, jährlich, lebenslang), der Tag, an dem du einen Angebotscode eingelöst hast, der Tag einer bestätigten Rückerstattung sowie Beginn und Ende eines erneuten Abbuchungsversuchs — jeweils nur tagesgenau. Verwendet werden nur vom App Store bestätigte Transaktionen; Beträge, Währung und Zahlungsmittel werden nicht gespeichert.
   - (nur iOS) Ob du die App über eine Apple-Ads-Anzeige installiert hast und, falls ja, die **Nummern** von Kampagne, Anzeigengruppe und Keyword dieser Anzeige, ob du die Anzeige angetippt oder nur gesehen hast, sowie das Datum (tagesgenau). Diese Werte erhalten wir einmal pro Installation von Apples AdServices. Das ist kein Tracking über andere Apps oder Websites hinweg, deshalb fragt die App nicht nach einer Tracking-Erlaubnis.
 
   **Titel von Terminen, Ordnernamen, Notizen, Orte und alles andere, was du eintippst, sind nie dabei.** Wir behalten pro Installation genau einen zusammengefassten Datensatz und verfolgen keine einzelnen Handlungen über die Zeit. Technisch bedingt hängt Apples CloudKit diesem Datensatz auf Apples Servern automatisch eine anonyme Konto-Kennung an; unsere App liest diesen Wert nie und schlägt damit auch nichts nach.
@@ -249,7 +254,8 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
   - आपने कौन-सी सुविधाएँ (आदत, यात्रा समय, दोहराव, चेकलिस्ट) इस्तेमाल कीं
   - आपके पास कितने काम हैं, उसका **दायरा** (जैसे `11-50`) — सटीक संख्या कभी नहीं
   - तारीख़ सिर्फ़ **दिन के स्तर पर** (जैसे `2026-08-10`); घंटा, मिनट या सेकंड नहीं
-  - ऐप का संस्करण और प्लैटफ़ॉर्म (iOS/macOS)
+  - ऐप का संस्करण (जिस संस्करण से आपने शुरुआत की और मौजूदा संस्करण) और प्लैटफ़ॉर्म (iOS/macOS)
+  - खरीद से जुड़ी तारीख़ें: मुफ़्त ट्रायल शुरू होने का दिन, पहली बार असल में भुगतान कटने का दिन और उसका प्लान (मासिक, वार्षिक, लाइफ़टाइम), ऑफ़र कोड इस्तेमाल करने का दिन, रिफ़ंड पक्का होने का दिन, और भुगतान की दोबारा कोशिश शुरू व ख़त्म होने के दिन — सब सिर्फ़ दिन के स्तर पर। सिर्फ़ App Store से पुष्टि हुए लेन-देन ही देखे जाते हैं; रक़म, मुद्रा या भुगतान का तरीका सहेजा नहीं जाता।
   - (सिर्फ़ iOS) आपने ऐप Apple Ads के किसी विज्ञापन से इंस्टॉल किया या नहीं; अगर हाँ, तो उस विज्ञापन के कैंपेन, ऐड ग्रुप और कीवर्ड के **नंबर**, आपने विज्ञापन पर टैप किया या सिर्फ़ देखा, और तारीख़ (दिन के स्तर पर)। ये मान हर इंस्टॉल पर एक बार Apple के AdServices से मिलते हैं। यह दूसरे ऐप या वेबसाइटों की गतिविधि से जोड़ने वाली ट्रैकिंग नहीं है, इसलिए ऐप ट्रैकिंग की अनुमति नहीं माँगता।
 
   **इवेंट के शीर्षक, फ़ोल्डर के नाम, नोट, जगह — आपका लिखा कुछ भी इन आँकड़ों में कभी शामिल नहीं होता।** हर इंस्टॉल के लिए सिर्फ़ एक सारांश रिकॉर्ड रखा जाता है; आपकी अलग-अलग गतिविधियों को समय के क्रम में ट्रैक नहीं किया जाता। Apple के CloudKit की बनावट के कारण Apple के सर्वर इस रिकॉर्ड के साथ खाते का एक गुमनाम पहचानकर्ता अपने-आप जोड़ देते हैं, पर यह ऐप उस मान को न कभी पढ़ता है, न उसे खोज की शर्त के रूप में इस्तेमाल करता है।
