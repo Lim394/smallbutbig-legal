@@ -6,12 +6,12 @@ permalink: /privacy
 ### 한국어
 
 **SmallButBig 개인정보처리방침**
-최종 수정일: 2026-10-26
+최종 수정일: 2026-10-30
 
 SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대표 임준범, 사업자등록번호 237-33-01894 — 이 만들고 운영합니다. 문의: **smallbutbig.app@gmail.com**
 
 **1. 요약**
-여러분이 앱에 적은 내용(일정·할 일·메모 등)은 **여러분의 기기와 여러분 소유의 iCloud 계정에만** 저장되며, 개발자는 그 내용에 접근할 수 없습니다. 별개로, 앱을 어떻게 개선할지 판단하기 위한 **익명 사용 통계**(숫자와 정해진 항목값만)를 수집합니다. **「문의하기」로 보내 주신 문의**는 개발자가 받아 읽고 답장에만 쓰며, 받은 날부터 90일 뒤 지웁니다. 구글·페이스북 등 **제3자 서버는 일절 사용하지 않습니다**(메일로 문의하시면 그 메일만 개발자의 Gmail 메일함에 닿습니다).
+여러분이 앱에 적은 내용(일정·할 일·메모 등)은 **여러분의 기기와 여러분 소유의 iCloud 계정에만** 저장되며, 개발자는 그 내용에 접근할 수 없습니다. 별개로, 앱을 어떻게 개선할지 판단하기 위한 **익명 사용 통계**(숫자와 정해진 항목값만)를 수집합니다. **「문의하기」로 보내 주신 문의**는 개발자가 받아 읽고 답장과, 말씀하신 것이 앱에 반영되었다는 소식을 보내는 데만 씁니다. 글과 캡처는 받은 날부터 90일 뒤 지우고, 답장 받을 주소는 그 소식을 보내는 동안 보관하다가 지워 달라 하시면 바로 지웁니다(자세한 기간은 4항). 구글·페이스북 등 **제3자 서버는 일절 사용하지 않습니다**(메일로 문의하시면 그 메일만 개발자의 Gmail 메일함에 닿습니다).
 
 **2. 수집하는 정보**
 - **앱 사용 데이터(일정, 할 일, 습관, 카테고리 등)**: 기기 내부(SwiftData)에 저장되며, iCloud 동기화를 켜면 이용자 본인의 iCloud 계정(Apple 제공)을 통해서만 다른 기기와 동기화됩니다. 이 데이터는 개발자가 운영하는 어떤 서버에도 전송되지 않으며, 개발자는 읽을 수 없습니다.
@@ -31,7 +31,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
   **일정 제목, 폴더 이름, 메모, 장소 등 여러분이 직접 입력한 내용은 이 통계에 절대 포함되지 않습니다.** 설치 1건당 집계 기록 하나만 유지하며, 개별 행동을 시간순으로 추적하지 않습니다. Apple의 CloudKit 특성상 이 기록에는 계정을 가리키는 익명 식별자가 Apple 서버에서 자동으로 부여되지만, 이 앱은 그 값을 읽거나 조회 조건으로 사용하지 않습니다.
 - **문의(「문의하기」로 보내실 때만)**: 「보내기」를 누르면 아래 내용이 개발자의 iCloud(CloudKit) 저장소로 전송됩니다.
   - 적어 주신 글(2,000자까지)과 고른 종류(쓰는 법·오류·제안·기타 — 고르지 않아도 됩니다)
-  - 답장 받을 메일 주소 또는 전화번호 — 답장을 보내는 데만 씁니다.
+  - 답장 받을 메일 주소 또는 전화번호 — 답장과, 말씀하신 것이 앱에 반영되면 그 소식을 보내는 데만 씁니다.
   - 붙여 주신 캡처·화면 녹화 — 붙이셨을 때만(합쳐서 14MB까지). 사진 · 영상 파일에 기록된 위치 정보(메타데이터)는 지우고 보냅니다.
   - 앱 버전과 빌드 번호, 기기 모델, iOS/macOS 버전, 앱 언어
 
@@ -44,7 +44,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
 **4. 데이터 보관 및 삭제**
 - 기기 내 데이터: 앱을 삭제하면 기기에 저장된 데이터도 함께 삭제됩니다.
 - iCloud 데이터: 기기 설정 > [본인 이름] > iCloud에서 이용자가 직접 관리·삭제할 수 있으며, 이는 전적으로 Apple의 iCloud 정책을 따릅니다.
-- 문의: 받은 날부터 90일이 지나면 개발자의 iCloud 저장소에서, 그리고 개발자가 읽으려고 컴퓨터에 받아 둔 사본에서 지웁니다(이 사본은 백업에 넣지 않습니다). 메일로 보내신 문의와 답장을 주고받은 메일은 메일함에 남으며, 요청하시면 지웁니다. 90일 전이라도 **smallbutbig.app@gmail.com**으로 요청하시면 지웁니다.
+- 문의: 받은 날부터 90일이 지나면 개발자의 iCloud 저장소에서, 그리고 개발자가 읽으려고 컴퓨터에 받아 둔 사본에서 지웁니다(이 사본은 백업에 넣지 않습니다). 다만 2026년 11월 1일부터 받은 문의의 답장 받을 주소(메일 주소 또는 전화번호)는 답장과 반영 소식을 보내는 동안 개발자 컴퓨터의 주소록에 보관하고, 지워 달라 하시면 바로 지웁니다. 주소록에는 그 주소와 함께 문의를 찾는 데 쓰는 문의 번호·받은 날·언어·앱 버전·고른 종류만 두며, 적어 주신 글과 캡처는 두지 않습니다(주소록도 백업에 넣지 않습니다). 그 전에 받은 문의와 「받은 날부터 90일 뒤 모두 지워요」라고 적힌 앱에서 보내신 문의는 그때 말씀드린 대로 답장 받을 주소까지 90일 뒤 지웁니다. 메일로 보내신 문의와 답장을 주고받은 메일은 메일함에 남으며, 요청하시면 지웁니다. 90일 전이라도 **smallbutbig.app@gmail.com**으로 요청하시면 지웁니다.
 
 **5. 아동의 개인정보**
 이 앱은 만 14세 미만 아동을 대상으로 특별히 설계되지 않았으며, 아동으로부터 개인정보를 의도적으로 수집하지 않습니다.
@@ -60,12 +60,12 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
 ### English
 
 **SmallButBig Privacy Policy**
-Last updated: 2026-10-26
+Last updated: 2026-10-30
 
 SmallButBig ("the App") is made and operated by **SmallButBig**, a sole-proprietor business registered in South Korea (owner: Junbeom Lim, business registration no. 237-33-01894). Contact: **smallbutbig.app@gmail.com**
 
 **1. Summary**
-Everything you write in the app (schedules, tasks, notes) stays **on your device and in your own iCloud account**, and we cannot read it. Separately, we collect **anonymous usage statistics** — counters and fixed option values only — to decide how to improve the app. **Messages you send with "Contact Us"** are read by the developer, used only to reply, and deleted 90 days after we receive them. We use **no third-party servers** such as Google or Meta (only if you contact us by email does that email reach our Gmail inbox).
+Everything you write in the app (schedules, tasks, notes) stays **on your device and in your own iCloud account**, and we cannot read it. Separately, we collect **anonymous usage statistics** — counters and fixed option values only — to decide how to improve the app. **Messages you send with "Contact Us"** are read by the developer and used only to reply and to let you know when what you asked for has made it into the app. What you wrote and attached is deleted 90 days after we receive it; your reply address is kept while we may still send you those updates, and deleted right away if you ask (details in section 4). We use **no third-party servers** such as Google or Meta (only if you contact us by email does that email reach our Gmail inbox).
 
 **2. What we collect**
 - **App usage data** (schedules, tasks, habits, categories): stored locally on your device (SwiftData) and, if iCloud sync is enabled, synced only through your own iCloud account (provided by Apple). This data is never sent to any server we operate, and we cannot read it.
@@ -85,7 +85,7 @@ Everything you write in the app (schedules, tasks, notes) stays **on your device
   **Task titles, folder names, notes, places, and anything else you type are never included.** We keep a single aggregate record per installation and do not trace individual actions over time. Because of how Apple's CloudKit works, Apple's servers automatically attach an anonymous account identifier to this record; our app never reads that value or uses it to look anything up.
 - **Messages to the developer (only when you send one with "Contact Us")**: When you tap Send, the following goes to our own iCloud (CloudKit) storage:
   - What you wrote (up to 2,000 characters) and the topic you picked (How to use, Bug, Idea, Other — picking one is optional)
-  - The email address or phone number for our reply. We use it only to reply.
+  - The email address or phone number for our reply. We use it only to reply and to let you know when what you asked for has made it into the app.
   - Screenshots or screen recordings you attach — only if you attach them (up to 14 MB in total). Location information recorded in photo and video files (metadata) is removed before sending.
   - App version and build number, device model, iOS/macOS version, and app language
 
@@ -98,7 +98,7 @@ Other than Apple (for iCloud sync, CloudKit, App Store payments, and Apple Ads i
 **4. Retention & deletion**
 - On-device data is deleted when you delete the app.
 - iCloud data is managed entirely under your own Apple ID (Settings > [Your Name] > iCloud) and follows Apple's iCloud policies.
-- Messages to the developer are deleted 90 days after we receive them — from our iCloud storage and from the copy we download to our computer to read them (that copy is kept out of backups). Messages you sent by email and our email replies stay in the mailbox; we delete them if you ask. You can also ask us at **smallbutbig.app@gmail.com** to delete a message sooner.
+- Messages to the developer are deleted 90 days after we receive them — from our iCloud storage and from the copy we download to our computer to read them (that copy is kept out of backups). For messages we receive from November 1, 2026, however, we keep your reply address (email address or phone number) in an address book on the developer's computer while we may still send you a reply or an update that your request has made it into the app, and we delete it right away if you ask. Alongside the address, the address book holds only what we need to find your message — its number, the date we received it, its language, the app version and the topic you picked — never what you wrote or attached (the address book is kept out of backups, too). For messages we received before then, and for messages sent from an app version that said "Everything is deleted 90 days after it arrives", we keep that promise: the reply address is deleted after 90 days as well. Messages you sent by email and our email replies stay in the mailbox; we delete them if you ask. You can also ask us at **smallbutbig.app@gmail.com** to delete a message sooner.
 
 **5. Children's privacy**
 This app is not specifically directed at children under 13/14 and does not knowingly collect personal information from children.
@@ -114,12 +114,12 @@ This policy may be updated as the app evolves. The "Last updated" date above wil
 ### 日本語
 
 **SmallButBig プライバシーポリシー**
-最終更新日: 2026-10-26
+最終更新日: 2026-10-30
 
 SmallButBig（「本アプリ」）は、韓国で登録された個人事業者 **SmallButBig**（代表: Junbeom Lim、事業者登録番号 237-33-01894）が制作・運営しています。お問い合わせ: **smallbutbig.app@gmail.com**
 
 **1. 概要**
-アプリに書いた内容（予定・タスク・メモなど）は**お使いの端末と、ご本人のiCloudアカウントにのみ**保存され、開発者はその内容にアクセスできません。これとは別に、アプリをどう改善するか判断するための**匿名の利用統計**（数値と、決められた項目の値のみ）を収集します。**「お問い合わせ」から送られたメッセージ**は開発者が受け取って読み、返信のためだけに使い、受け取った日から90日後に削除します。Google・Meta などの**第三者サーバーは一切使用しません**（メールでお問い合わせいただいた場合のみ、そのメールが開発者のGmailの受信箱に届きます）。
+アプリに書いた内容（予定・タスク・メモなど）は**お使いの端末と、ご本人のiCloudアカウントにのみ**保存され、開発者はその内容にアクセスできません。これとは別に、アプリをどう改善するか判断するための**匿名の利用統計**（数値と、決められた項目の値のみ）を収集します。**「お問い合わせ」から送られたメッセージ**は開発者が受け取って読み、返信と、ご要望がアプリに反映されたことのお知らせのためだけに使います。書いた内容と添付は受け取った日から90日後に削除し、返信先はそのお知らせを送るあいだ保管して、削除をご依頼いただければすぐに削除します（詳しい期間は4項）。Google・Meta などの**第三者サーバーは一切使用しません**（メールでお問い合わせいただいた場合のみ、そのメールが開発者のGmailの受信箱に届きます）。
 
 **2. 収集する情報**
 - **アプリの利用データ（予定、タスク、習慣、カテゴリなど）**: 端末内部（SwiftData）に保存され、iCloud同期をオンにした場合はご本人のiCloudアカウント（Apple提供）を通じてのみ、ご自身の端末どうしで同期されます。このデータが開発者の運営するサーバーへ送られることはなく、開発者が読むこともできません。
@@ -139,7 +139,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
   **予定のタイトル、フォルダ名、メモ、場所など、ご自身で入力した内容がこの統計に含まれることは決してありません。** インストール1件につき集計レコードを1つだけ保持し、個々の行動を時系列で追跡することはありません。Apple の CloudKit の仕組み上、このレコードにはアカウントを指す匿名の識別子が Apple のサーバーによって自動的に付与されますが、本アプリはその値を読み取ることも、検索の条件として使うこともありません。
 - **お問い合わせ（「お問い合わせ」から送信したときのみ）**: 「送信」をタップすると、以下の内容が開発者のiCloud（CloudKit）ストレージへ送信されます。
   - 書いた内容（2,000文字まで）と選んだ種類（使い方・不具合・提案・その他 — 選ばなくても送れます）
-  - 返信を受け取るメールアドレスまたは電話番号 — 返信を送るためだけに使います。
+  - 返信を受け取るメールアドレスまたは電話番号 — 返信と、ご要望がアプリに反映されたときのお知らせを送るためだけに使います。
   - 添付したスクリーンショット・画面収録 — 添付した場合のみ（合計14MBまで）。写真・動画ファイルに記録された位置情報（メタデータ）は削除して送ります。
   - アプリのバージョンとビルド番号、端末のモデル、iOS/macOSのバージョン、アプリの言語
 
@@ -152,7 +152,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
 **4. データの保管と削除**
 - 端末内のデータ: アプリを削除すると、端末に保存されたデータも一緒に削除されます。
 - iCloud のデータ: 「設定」App > [ご自身の名前] > iCloud から利用者ご自身で管理・削除でき、これは全面的に Apple の iCloud ポリシーに従います。
-- お問い合わせ: 受け取った日から90日が過ぎると、開発者のiCloudストレージと、開発者が読むためにコンピュータに保存したコピーから削除します（このコピーはバックアップに含めません）。メールで送られたお問い合わせと、返信をやり取りしたメールはメールボックスに残り、ご依頼があれば削除します。90日より前でも **smallbutbig.app@gmail.com** までご依頼いただければ削除します。
+- お問い合わせ: 受け取った日から90日が過ぎると、開発者のiCloudストレージと、開発者が読むためにコンピュータに保存したコピーから削除します（このコピーはバックアップに含めません）。ただし、2026年11月1日以降に受け取ったお問い合わせの返信先（メールアドレスまたは電話番号）は、返信とご要望の反映のお知らせを送るあいだ開発者のコンピュータのアドレス帳に保管し、削除をご依頼いただければすぐに削除します。アドレス帳には返信先と、お問い合わせを探すための番号・受け取った日・言語・アプリのバージョン・選んだ種類だけを置き、書いた内容や添付は置きません（アドレス帳もバックアップに含めません）。それより前に受け取ったお問い合わせと、「受け取った日から90日後にすべて削除します」と表示されていたアプリから送られたお問い合わせは、そのときのお約束どおり返信先も90日後に削除します。メールで送られたお問い合わせと、返信をやり取りしたメールはメールボックスに残り、ご依頼があれば削除します。90日より前でも **smallbutbig.app@gmail.com** までご依頼いただければ削除します。
 
 **5. 子どものプライバシー**
 本アプリは13歳・14歳未満の子どもを対象として特別に設計されたものではなく、子どもから個人情報を意図的に収集することはありません。
@@ -168,12 +168,12 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
 ### 简体中文
 
 **SmallButBig 隐私政策**
-最后更新：2026-10-26
+最后更新：2026-10-30
 
 SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButBig**（代表人：Junbeom Lim，事业者登记号 237-33-01894）制作并运营。联系方式：**smallbutbig.app@gmail.com**
 
 **1. 概要**
-你在应用里写下的内容（日程、待办、备注等）只保存在**你的设备和你自己的 iCloud 账户里**，开发者无法读取。另外，为了判断如何改进应用，我们会收集**匿名使用统计**（只有数字和固定的选项值）。**通过“联系我们”发送的消息**由开发者接收并阅读，只用于回复，并在收到之日起 90 天后删除。**完全不使用** Google、Meta 等第三方服务器（只有当你通过邮件联系我们时，那封邮件才会到达开发者的 Gmail 收件箱）。
+你在应用里写下的内容（日程、待办、备注等）只保存在**你的设备和你自己的 iCloud 账户里**，开发者无法读取。另外，为了判断如何改进应用，我们会收集**匿名使用统计**（只有数字和固定的选项值）。**通过“联系我们”发送的消息**由开发者接收并阅读，只用于回复，以及在你提出的内容反映到应用中时通知你。你写的内容和附件会在收到之日起 90 天后删除；回复地址会在我们可能还需发送这类通知期间保留，你要求删除时会立即删除（具体期限见第 4 条）。**完全不使用** Google、Meta 等第三方服务器（只有当你通过邮件联系我们时，那封邮件才会到达开发者的 Gmail 收件箱）。
 
 **2. 我们收集的信息**
 - **应用使用数据（日程、待办、习惯、类别等）**：保存在设备本地（SwiftData）；开启 iCloud 同步后，仅通过你自己的 iCloud 账户（由 Apple 提供）在你的设备之间同步。这些数据不会发送到开发者运营的任何服务器，开发者也无法读取。
@@ -193,7 +193,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
   **日程标题、文件夹名称、备注、地点等你亲手输入的内容，绝不会包含在这些统计里。** 每次安装只保留一条汇总记录，不会按时间顺序追踪你的每一步操作。由于 Apple CloudKit 的机制，Apple 的服务器会自动为这条记录附加一个指向账户的匿名标识符，但本应用从不读取该值，也不会用它作为查询条件。
 - **联系开发者（仅在你通过“联系我们”发送时）**：点按“发送”后，以下内容会发送到开发者自己的 iCloud（CloudKit）存储：
   - 你写的内容（最多 2,000 字）和你选择的类型（使用方法、问题、建议、其他——不选也可以发送）
-  - 用于接收回复的邮箱地址或电话号码——只用于给你回复。
+  - 用于接收回复的邮箱地址或电话号码——只用于给你回复，以及在你提出的内容反映到应用中时通知你。
   - 你附加的截图或屏幕录制——仅在你附加时（合计最多 14 MB）。照片和视频文件中记录的位置信息（元数据）会在发送前删除。
   - 应用版本和构建号、设备型号、iOS/macOS 版本、应用语言
 
@@ -206,7 +206,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
 **4. 数据保留与删除**
 - 设备上的数据：删除应用时，设备上保存的数据也会一并删除。
 - iCloud 数据：可在“设置”>[你的姓名]>iCloud 中自行管理和删除，完全遵循 Apple 的 iCloud 政策。
-- 联系开发者的消息：自收到之日起满 90 天后，会从开发者的 iCloud 存储以及开发者为阅读而下载到电脑上的副本中删除（该副本不放入备份）。通过邮件发送的消息和往来的回复邮件会留在邮箱中，你提出要求时我们会删除。即使未满 90 天，只要发邮件至 **smallbutbig.app@gmail.com** 提出要求，我们也会删除。
+- 联系开发者的消息：自收到之日起满 90 天后，会从开发者的 iCloud 存储以及开发者为阅读而下载到电脑上的副本中删除（该副本不放入备份）。不过，对于 2026 年 11 月 1 日起收到的消息，你的回复地址（邮箱地址或电话号码）会在我们可能还需给你回复、或通知你所提内容已反映到应用中的期间，保存在开发者电脑上的通讯录里；你要求删除时会立即删除。通讯录中除回复地址外，只保存用于查找该消息的编号、收到日期、语言、应用版本和你选择的类型，不保存你写的内容或附件（通讯录同样不放入备份）。在此之前收到的消息，以及从显示“自收到之日起 90 天后全部删除”的应用版本发送的消息，按当时的承诺，回复地址也会在 90 天后删除。通过邮件发送的消息和往来的回复邮件会留在邮箱中，你提出要求时我们会删除。即使未满 90 天，只要发邮件至 **smallbutbig.app@gmail.com** 提出要求，我们也会删除。
 
 **5. 儿童隐私**
 本应用并非专为 13／14 岁以下儿童设计，也不会有意收集儿童的个人信息。
@@ -222,12 +222,12 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
 ### Deutsch
 
 **SmallButBig Datenschutzerklärung**
-Zuletzt aktualisiert: 2026-10-26
+Zuletzt aktualisiert: 2026-10-30
 
 SmallButBig („die App“) wird von **SmallButBig**, einem in Südkorea eingetragenen Einzelunternehmen (Inhaber: Junbeom Lim, Unternehmensregisternummer 237-33-01894), erstellt und betrieben. Kontakt: **smallbutbig.app@gmail.com**
 
 **1. Kurz gesagt**
-Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf deinem Gerät und in deiner eigenen iCloud** — wir können es nicht lesen. Davon getrennt erheben wir **anonyme Nutzungsstatistiken** — nur Zähler und feste Auswahlwerte —, um zu entscheiden, wie wir die App verbessern. **Nachrichten, die du über „Kontakt“ sendest,** liest der Entwickler, nutzt sie nur für die Antwort und löscht sie 90 Tage nach Eingang. Wir nutzen **keine Server Dritter** wie Google oder Meta (nur wenn du uns per E-Mail schreibst, landet diese E-Mail in unserem Gmail-Postfach).
+Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf deinem Gerät und in deiner eigenen iCloud** — wir können es nicht lesen. Davon getrennt erheben wir **anonyme Nutzungsstatistiken** — nur Zähler und feste Auswahlwerte —, um zu entscheiden, wie wir die App verbessern. **Nachrichten, die du über „Kontakt“ sendest,** liest der Entwickler und nutzt sie nur für die Antwort und um dir Bescheid zu geben, wenn dein Anliegen in die App eingeflossen ist. Was du geschrieben und angehängt hast, löschen wir 90 Tage nach Eingang; deine Antwortadresse behalten wir, solange wir dir solche Nachrichten noch schicken könnten, und löschen sie sofort, wenn du darum bittest (Einzelheiten unter Punkt 4). Wir nutzen **keine Server Dritter** wie Google oder Meta (nur wenn du uns per E-Mail schreibst, landet diese E-Mail in unserem Gmail-Postfach).
 
 **2. Was wir erheben**
 - **App-Daten (Termine, Aufgaben, Gewohnheiten, Kategorien)**: liegen lokal auf deinem Gerät (SwiftData) und werden, wenn iCloud-Sync aktiv ist, ausschließlich über deine eigene iCloud (von Apple bereitgestellt) zwischen deinen Geräten synchronisiert. Diese Daten gehen an keinen Server, den wir betreiben, und wir können sie nicht lesen.
@@ -247,7 +247,7 @@ Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf de
   **Titel von Terminen, Ordnernamen, Notizen, Orte und alles andere, was du eintippst, sind nie dabei.** Wir behalten pro Installation genau einen zusammengefassten Datensatz und verfolgen keine einzelnen Handlungen über die Zeit. Technisch bedingt hängt Apples CloudKit diesem Datensatz auf Apples Servern automatisch eine anonyme Konto-Kennung an; unsere App liest diesen Wert nie und schlägt damit auch nichts nach.
 - **Nachrichten an den Entwickler (nur wenn du über „Kontakt“ eine sendest)**: Wenn du auf „Senden“ tippst, geht Folgendes an unseren eigenen iCloud-Speicher (CloudKit):
   - Was du geschrieben hast (bis zu 2.000 Zeichen) und das gewählte Thema (Bedienung, Fehler, Idee, Sonstiges — die Auswahl ist freiwillig)
-  - Die E-Mail-Adresse oder Telefonnummer für unsere Antwort. Wir nutzen sie nur für die Antwort.
+  - Die E-Mail-Adresse oder Telefonnummer für unsere Antwort. Wir nutzen sie nur für die Antwort und um dir Bescheid zu geben, wenn dein Anliegen in die App eingeflossen ist.
   - Bildschirmfotos oder Bildschirmaufnahmen, die du anhängst — nur wenn du sie anhängst (zusammen bis zu 14 MB). In Foto- und Videodateien gespeicherte Standortinformationen (Metadaten) entfernen wir vor dem Senden.
   - App-Version und Build-Nummer, Gerätemodell, iOS-/macOS-Version und App-Sprache
 
@@ -260,7 +260,7 @@ Außer an Apple (für iCloud-Sync, CloudKit, App-Store-Zahlungen und Apple-Ads-A
 **4. Aufbewahrung & Löschung**
 - Daten auf dem Gerät werden gelöscht, sobald du die App löschst.
 - iCloud-Daten verwaltest du vollständig selbst unter deiner Apple-ID (Einstellungen > [Dein Name] > iCloud); dafür gelten Apples iCloud-Richtlinien.
-- Nachrichten an den Entwickler löschen wir 90 Tage nach Eingang — aus unserem iCloud-Speicher und aus der Kopie, die wir zum Lesen auf unseren Computer laden (diese Kopie kommt in keine Datensicherung). Per E-Mail gesendete Nachrichten und unsere Antwort-E-Mails bleiben im Postfach; auf Wunsch löschen wir sie. Du kannst uns auch unter **smallbutbig.app@gmail.com** bitten, eine Nachricht früher zu löschen.
+- Nachrichten an den Entwickler löschen wir 90 Tage nach Eingang — aus unserem iCloud-Speicher und aus der Kopie, die wir zum Lesen auf unseren Computer laden (diese Kopie kommt in keine Datensicherung). Bei Nachrichten, die ab dem 1. November 2026 eingehen, bewahren wir deine Antwortadresse (E-Mail-Adresse oder Telefonnummer) jedoch in einem Adressbuch auf dem Computer des Entwicklers auf, solange wir dir noch antworten oder Bescheid geben könnten, dass dein Anliegen in die App eingeflossen ist; auf Wunsch löschen wir sie sofort. Neben der Adresse enthält das Adressbuch nur, was wir zum Wiederfinden deiner Nachricht brauchen — ihre Nummer, das Eingangsdatum, die Sprache, die App-Version und das gewählte Thema —, nie, was du geschrieben oder angehängt hast (auch das Adressbuch kommt in keine Datensicherung). Für Nachrichten, die vorher eingegangen sind, und für Nachrichten aus einer App-Version, in der „Alles wird 90 Tage nach dem Eingang gelöscht“ stand, gilt dieses Versprechen weiter: Auch die Antwortadresse wird nach 90 Tagen gelöscht. Per E-Mail gesendete Nachrichten und unsere Antwort-E-Mails bleiben im Postfach; auf Wunsch löschen wir sie. Du kannst uns auch unter **smallbutbig.app@gmail.com** bitten, eine Nachricht früher zu löschen.
 
 **5. Kinder**
 Diese App richtet sich nicht gezielt an Kinder unter 13/14 Jahren und erhebt wissentlich keine personenbezogenen Daten von Kindern.
@@ -276,12 +276,12 @@ Diese Erklärung kann sich mit der App weiterentwickeln. Das Datum „Zuletzt ak
 ### हिन्दी
 
 **SmallButBig गोपनीयता नीति**
-अंतिम अपडेट: 2026-10-26
+अंतिम अपडेट: 2026-10-30
 
 SmallButBig ("यह ऐप") को दक्षिण कोरिया में पंजीकृत एकल-स्वामित्व व्यवसाय **SmallButBig** (स्वामी: Junbeom Lim, व्यवसाय पंजीकरण सं. 237-33-01894) बनाता और चलाता है। संपर्क: **smallbutbig.app@gmail.com**
 
 **1. सार**
-आप ऐप में जो कुछ लिखते हैं (इवेंट, काम, नोट) वह **आपकी डिवाइस और आपके अपने iCloud खाते में** ही रहता है; हम उसे पढ़ नहीं सकते। इससे अलग, ऐप को कैसे बेहतर बनाया जाए यह तय करने के लिए हम **गुमनाम उपयोग आँकड़े** इकट्ठा करते हैं — सिर्फ़ गिनतियाँ और तय विकल्प-मान। **"संपर्क करें" से भेजे गए संदेश** डेवलपर पढ़ता है, सिर्फ़ जवाब देने के लिए इस्तेमाल करता है, और मिलने के 90 दिन बाद मिटा देता है। Google या Meta जैसे **किसी तीसरे पक्ष के सर्वर का इस्तेमाल नहीं होता** (सिर्फ़ जब आप हमें ईमेल से संपर्क करते हैं, तभी वह ईमेल डेवलपर के Gmail इनबॉक्स में पहुँचता है)।
+आप ऐप में जो कुछ लिखते हैं (इवेंट, काम, नोट) वह **आपकी डिवाइस और आपके अपने iCloud खाते में** ही रहता है; हम उसे पढ़ नहीं सकते। इससे अलग, ऐप को कैसे बेहतर बनाया जाए यह तय करने के लिए हम **गुमनाम उपयोग आँकड़े** इकट्ठा करते हैं — सिर्फ़ गिनतियाँ और तय विकल्प-मान। **"संपर्क करें" से भेजे गए संदेश** डेवलपर पढ़ता है और सिर्फ़ जवाब देने के लिए, और आपकी बात ऐप में शामिल हो जाने पर आपको बताने के लिए इस्तेमाल करता है। आपका लिखा और जोड़ा हुआ मिलने के 90 दिन बाद मिटा दिया जाता है; जवाब पाने का पता तब तक रखा जाता है जब तक हमें ऐसी ख़बर भेजनी पड़ सकती है, और आप कहें तो तुरंत मिटा दिया जाता है (अवधि का ब्योरा बिंदु 4 में)। Google या Meta जैसे **किसी तीसरे पक्ष के सर्वर का इस्तेमाल नहीं होता** (सिर्फ़ जब आप हमें ईमेल से संपर्क करते हैं, तभी वह ईमेल डेवलपर के Gmail इनबॉक्स में पहुँचता है)।
 
 **2. हम क्या इकट्ठा करते हैं**
 - **ऐप का डेटा (इवेंट, काम, आदतें, श्रेणियाँ)**: आपकी डिवाइस में ही (SwiftData में) सहेजा जाता है, और iCloud सिंक चालू हो तो सिर्फ़ आपके अपने iCloud खाते (Apple द्वारा प्रदत्त) के ज़रिए आपकी डिवाइसों के बीच सिंक होता है। यह डेटा हमारे चलाए किसी सर्वर पर नहीं जाता और हम इसे पढ़ नहीं सकते।
@@ -301,7 +301,7 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
   **इवेंट के शीर्षक, फ़ोल्डर के नाम, नोट, जगह — आपका लिखा कुछ भी इन आँकड़ों में कभी शामिल नहीं होता।** हर इंस्टॉल के लिए सिर्फ़ एक सारांश रिकॉर्ड रखा जाता है; आपकी अलग-अलग गतिविधियों को समय के क्रम में ट्रैक नहीं किया जाता। Apple के CloudKit की बनावट के कारण Apple के सर्वर इस रिकॉर्ड के साथ खाते का एक गुमनाम पहचानकर्ता अपने-आप जोड़ देते हैं, पर यह ऐप उस मान को न कभी पढ़ता है, न उसे खोज की शर्त के रूप में इस्तेमाल करता है।
 - **डेवलपर को संदेश (सिर्फ़ जब आप "संपर्क करें" से भेजते हैं)**: "भेजें" पर टैप करते ही नीचे दी गई बातें हमारे अपने iCloud (CloudKit) स्टोरेज में भेजी जाती हैं।
   - आपने जो लिखा (2,000 अक्षरों तक) और आपका चुना हुआ विषय (इस्तेमाल का तरीका, गड़बड़ी, सुझाव, अन्य — चुनना ज़रूरी नहीं)
-  - जवाब पाने का ईमेल पता या फ़ोन नंबर — इसका इस्तेमाल सिर्फ़ जवाब भेजने के लिए होता है।
+  - जवाब पाने का ईमेल पता या फ़ोन नंबर — इसका इस्तेमाल सिर्फ़ जवाब भेजने के लिए, और आपकी बात ऐप में शामिल हो जाने पर आपको बताने के लिए होता है।
   - आपके जोड़े गए स्क्रीनशॉट या स्क्रीन रिकॉर्डिंग — सिर्फ़ अगर आप जोड़ें (कुल 14 MB तक)। फ़ोटो और वीडियो फ़ाइलों में दर्ज जगह की जानकारी (मेटाडेटा) भेजने से पहले हटा दी जाती है।
   - ऐप का संस्करण और बिल्ड नंबर, डिवाइस मॉडल, iOS/macOS संस्करण और ऐप की भाषा
 
@@ -314,7 +314,7 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
 **4. डेटा रखना और मिटाना**
 - डिवाइस का डेटा: ऐप हटाते ही डिवाइस में सहेजा डेटा भी मिट जाता है।
 - iCloud का डेटा: आप इसे अपनी Apple ID के तहत खुद संभालते हैं (सेटिंग्स > [आपका नाम] > iCloud); उस पर Apple की iCloud नीतियाँ लागू होती हैं।
-- डेवलपर को भेजे संदेश: मिलने के 90 दिन बाद हम उन्हें अपने iCloud स्टोरेज से और पढ़ने के लिए अपने कंप्यूटर पर उतारी गई कॉपी से मिटा देते हैं (वह कॉपी बैकअप में नहीं रखी जाती)। ईमेल से भेजे संदेश और जवाब के ईमेल मेलबॉक्स में रहते हैं; आप कहें तो हम उन्हें मिटा देते हैं। 90 दिन से पहले मिटवाना हो तो **smallbutbig.app@gmail.com** पर लिखें।
+- डेवलपर को भेजे संदेश: मिलने के 90 दिन बाद हम उन्हें अपने iCloud स्टोरेज से और पढ़ने के लिए अपने कंप्यूटर पर उतारी गई कॉपी से मिटा देते हैं (वह कॉपी बैकअप में नहीं रखी जाती)। लेकिन 1 नवंबर 2026 से मिले संदेशों के लिए, आपका जवाब पाने का पता (ईमेल पता या फ़ोन नंबर) डेवलपर के कंप्यूटर की एक पता-सूची में तब तक रखा जाता है जब तक हमें आपको जवाब या यह ख़बर भेजनी पड़ सकती है कि आपकी बात ऐप में शामिल हो गई है; आप कहें तो उसे तुरंत मिटा दिया जाता है। पते के साथ पता-सूची में सिर्फ़ वही रहता है जिससे आपका संदेश ढूँढा जा सके — उसका नंबर, मिलने की तारीख़, भाषा, ऐप का संस्करण और आपका चुना हुआ विषय; आपका लिखा या जोड़ा हुआ कभी नहीं (पता-सूची भी बैकअप में नहीं रखी जाती)। उससे पहले मिले संदेश, और ऐप के जिस संस्करण में "मिलने के 90 दिन बाद सब मिटा दिया जाता है" लिखा था उससे भेजे गए संदेश, उसी वादे के मुताबिक़ चलते हैं: जवाब पाने का पता भी 90 दिन बाद मिटा दिया जाता है। ईमेल से भेजे संदेश और जवाब के ईमेल मेलबॉक्स में रहते हैं; आप कहें तो हम उन्हें मिटा देते हैं। 90 दिन से पहले मिटवाना हो तो **smallbutbig.app@gmail.com** पर लिखें।
 
 **5. बच्चों की निजता**
 यह ऐप खास तौर पर 13/14 साल से कम उम्र के बच्चों के लिए नहीं बनाया गया है और बच्चों से जानबूझकर व्यक्तिगत जानकारी इकट्ठा नहीं करता।
