@@ -44,7 +44,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
 **4. 데이터 보관 및 삭제**
 - 기기 내 데이터: 앱을 삭제하면 기기에 저장된 데이터도 함께 삭제됩니다.
 - iCloud 데이터: 기기 설정 > [본인 이름] > iCloud에서 이용자가 직접 관리·삭제할 수 있으며, 이는 전적으로 Apple의 iCloud 정책을 따릅니다.
-- 문의: 문의 글 · 캡처 · 답장 받을 주소(메일 주소 또는 전화번호)는 답장과 반영 소식을 위해 지워 달라 하실 때까지 보관하고, 말씀하시면 바로 지웁니다. 보관하는 자리는 개발자의 iCloud 저장소와, 개발자가 읽으려고 컴퓨터에 받아 둔 사본이며, 컴퓨터에 둔 사본은 백업에 넣지 않습니다. 메일로 보내신 문의와 답장을 주고받은 메일은 메일함에 남으며, 이것도 요청하시면 지웁니다. 지워 달라는 요청은 **smallbutbig.app@gmail.com**으로 보내 주세요.
+- 문의: 문의 글 · 캡처 · 답장 받을 주소(메일 주소 또는 전화번호)는 답장과 반영 소식을 위해 지워 달라 하실 때까지 보관하고, 말씀하시면 바로 지웁니다. 보관하는 자리는 개발자의 iCloud 저장소와, 개발자가 읽으려고 컴퓨터에 받아 둔 사본이며, 컴퓨터에 둔 사본은 백업에 넣지 않습니다. 다만 답장을 쓰려고 살펴본 문의 글(메일 주소 · 전화번호는 가린 채)은 개발자 컴퓨터의 작업 기록에 남아 그 컴퓨터의 백업에 함께 들어갈 수 있습니다. 또 앱 3.2보다 앞선 판은 앱을 켤 때 보낸 지 90일이 지난 문의를 iCloud 저장소에서 지울 수 있습니다. 이때 컴퓨터에 받아 둔 사본은 남지만, 그 전에 받아 두지 못한 캡처는 함께 지워질 수 있습니다. 메일로 보내신 문의와 답장을 주고받은 메일은 메일함에 남으며, 이것도 요청하시면 지웁니다. 지워 달라는 요청은 **smallbutbig.app@gmail.com**으로 보내 주세요.
 
 **5. 아동의 개인정보**
 이 앱은 만 14세 미만 아동을 대상으로 특별히 설계되지 않았으며, 아동으로부터 개인정보를 의도적으로 수집하지 않습니다.
@@ -98,7 +98,7 @@ Other than Apple (for iCloud sync, CloudKit, App Store payments, and Apple Ads i
 **4. Retention & deletion**
 - On-device data is deleted when you delete the app.
 - iCloud data is managed entirely under your own Apple ID (Settings > [Your Name] > iCloud) and follows Apple's iCloud policies.
-- Messages to the developer: what you wrote, what you attached and your reply address (email address or phone number) are kept so we can reply and let you know when your request has made it into the app, until you ask us to delete them; when you ask, we delete them right away. They are kept in our iCloud storage and in the copy we download to our computer to read them; the copy on our computer is kept out of backups. Messages you sent by email and our email replies stay in the mailbox; we delete those too if you ask. To ask, write to **smallbutbig.app@gmail.com**.
+- Messages to the developer: what you wrote, what you attached and your reply address (email address or phone number) are kept so we can reply and let you know when your request has made it into the app, until you ask us to delete them; when you ask, we delete them right away. They are kept in our iCloud storage and in the copy we download to our computer to read them; the copy on our computer is kept out of backups. However, the text of messages we looked at to write a reply (with email addresses and phone numbers masked) stays in our computer's work records and may be included in that computer's backups. Also, versions of the app before 3.2 may delete messages from our iCloud storage when the app is opened, once 90 days have passed since they were sent. The copy already on our computer stays, but attachments we had not downloaded by then may be deleted with them. Messages you sent by email and our email replies stay in the mailbox; we delete those too if you ask. To ask, write to **smallbutbig.app@gmail.com**.
 
 **5. Children's privacy**
 This app is not specifically directed at children under 13/14 and does not knowingly collect personal information from children.
@@ -152,7 +152,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
 **4. データの保管と削除**
 - 端末内のデータ: アプリを削除すると、端末に保存されたデータも一緒に削除されます。
 - iCloud のデータ: 「設定」App > [ご自身の名前] > iCloud から利用者ご自身で管理・削除でき、これは全面的に Apple の iCloud ポリシーに従います。
-- お問い合わせ: 書いた内容・添付・返信先（メールアドレスまたは電話番号）は、返信とご要望の反映のお知らせのため、削除をご依頼いただくまで保管し、ご依頼があればすぐに削除します。保管する場所は開発者のiCloudストレージと、開発者が読むためにコンピュータに保存したコピーで、コンピュータのコピーはバックアップに含めません。メールで送られたお問い合わせと、返信をやり取りしたメールはメールボックスに残り、これもご依頼があれば削除します。削除のご依頼は **smallbutbig.app@gmail.com** までお送りください。
+- お問い合わせ: 書いた内容・添付・返信先（メールアドレスまたは電話番号）は、返信とご要望の反映のお知らせのため、削除をご依頼いただくまで保管し、ご依頼があればすぐに削除します。保管する場所は開発者のiCloudストレージと、開発者が読むためにコンピュータに保存したコピーで、コンピュータのコピーはバックアップに含めません。ただし、返信を書くために確認したお問い合わせの文面（メールアドレス・電話番号は伏せた状態）は開発者のコンピュータの作業記録に残り、そのコンピュータのバックアップに含まれることがあります。また、バージョン3.2より前のアプリは、起動時に送信から90日が過ぎたお問い合わせをiCloudストレージから削除することがあります。このときコンピュータに保存済みのコピーは残りますが、それまでに保存していなかった添付は一緒に削除されることがあります。メールで送られたお問い合わせと、返信をやり取りしたメールはメールボックスに残り、これもご依頼があれば削除します。削除のご依頼は **smallbutbig.app@gmail.com** までお送りください。
 
 **5. 子どものプライバシー**
 本アプリは13歳・14歳未満の子どもを対象として特別に設計されたものではなく、子どもから個人情報を意図的に収集することはありません。
@@ -206,7 +206,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
 **4. 数据保留与删除**
 - 设备上的数据：删除应用时，设备上保存的数据也会一并删除。
 - iCloud 数据：可在“设置”>[你的姓名]>iCloud 中自行管理和删除，完全遵循 Apple 的 iCloud 政策。
-- 联系开发者的消息：你写的内容、附件和回复地址（邮箱地址或电话号码）会为了给你回复、并通知你所提内容已反映到应用中而一直保存，直到你要求删除；你提出要求时会立即删除。保存的位置是开发者的 iCloud 存储，以及开发者为阅读而下载到电脑上的副本；电脑上的副本不放入备份。通过邮件发送的消息和往来的回复邮件会留在邮箱中，你提出要求时我们也会删除。如需删除，请发邮件至 **smallbutbig.app@gmail.com**。
+- 联系开发者的消息：你写的内容、附件和回复地址（邮箱地址或电话号码）会为了给你回复、并通知你所提内容已反映到应用中而一直保存，直到你要求删除；你提出要求时会立即删除。保存的位置是开发者的 iCloud 存储，以及开发者为阅读而下载到电脑上的副本；电脑上的副本不放入备份。不过，开发者为写回复而查看过的消息内容（邮箱地址和电话号码已遮盖）会留在开发者电脑的工作记录中，并可能随这台电脑的备份一起保存。另外，3.2 之前版本的应用在打开时，可能会从 iCloud 存储中删除发送已满 90 天的消息。此时已下载到电脑上的副本会保留，但在此之前尚未下载的附件可能会一并被删除。通过邮件发送的消息和往来的回复邮件会留在邮箱中，你提出要求时我们也会删除。如需删除，请发邮件至 **smallbutbig.app@gmail.com**。
 
 **5. 儿童隐私**
 本应用并非专为 13／14 岁以下儿童设计，也不会有意收集儿童的个人信息。
@@ -260,7 +260,7 @@ Außer an Apple (für iCloud-Sync, CloudKit, App-Store-Zahlungen und Apple-Ads-A
 **4. Aufbewahrung & Löschung**
 - Daten auf dem Gerät werden gelöscht, sobald du die App löschst.
 - iCloud-Daten verwaltest du vollständig selbst unter deiner Apple-ID (Einstellungen > [Dein Name] > iCloud); dafür gelten Apples iCloud-Richtlinien.
-- Nachrichten an den Entwickler: Was du geschrieben und angehängt hast und deine Antwortadresse (E-Mail-Adresse oder Telefonnummer) bewahren wir auf, damit wir dir antworten und Bescheid geben können, wenn dein Anliegen in die App eingeflossen ist — bis du uns bittest, sie zu löschen; dann löschen wir sie sofort. Sie liegen in unserem iCloud-Speicher und in der Kopie, die wir zum Lesen auf unseren Computer laden; die Kopie auf unserem Computer kommt in keine Datensicherung. Per E-Mail gesendete Nachrichten und unsere Antwort-E-Mails bleiben im Postfach; auch sie löschen wir auf Wunsch. Schreib uns dafür an **smallbutbig.app@gmail.com**.
+- Nachrichten an den Entwickler: Was du geschrieben und angehängt hast und deine Antwortadresse (E-Mail-Adresse oder Telefonnummer) bewahren wir auf, damit wir dir antworten und Bescheid geben können, wenn dein Anliegen in die App eingeflossen ist — bis du uns bittest, sie zu löschen; dann löschen wir sie sofort. Sie liegen in unserem iCloud-Speicher und in der Kopie, die wir zum Lesen auf unseren Computer laden; die Kopie auf unserem Computer kommt in keine Datensicherung. Der Text von Nachrichten, die wir uns zum Antworten angesehen haben (E-Mail-Adressen und Telefonnummern unkenntlich gemacht), bleibt allerdings in den Arbeitsprotokollen auf unserem Computer und kann so in dessen Datensicherung gelangen. Außerdem können App-Versionen vor 3.2 beim Öffnen Nachrichten, die vor mehr als 90 Tagen gesendet wurden, aus unserem iCloud-Speicher löschen. Die Kopie auf unserem Computer bleibt dann erhalten, Anhänge, die wir bis dahin nicht heruntergeladen haben, können aber mitgelöscht werden. Per E-Mail gesendete Nachrichten und unsere Antwort-E-Mails bleiben im Postfach; auch sie löschen wir auf Wunsch. Schreib uns dafür an **smallbutbig.app@gmail.com**.
 
 **5. Kinder**
 Diese App richtet sich nicht gezielt an Kinder unter 13/14 Jahren und erhebt wissentlich keine personenbezogenen Daten von Kindern.
@@ -314,7 +314,7 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
 **4. डेटा रखना और मिटाना**
 - डिवाइस का डेटा: ऐप हटाते ही डिवाइस में सहेजा डेटा भी मिट जाता है।
 - iCloud का डेटा: आप इसे अपनी Apple ID के तहत खुद संभालते हैं (सेटिंग्स > [आपका नाम] > iCloud); उस पर Apple की iCloud नीतियाँ लागू होती हैं।
-- डेवलपर को भेजे संदेश: आपका लिखा, जोड़ा हुआ और जवाब पाने का पता (ईमेल पता या फ़ोन नंबर) आपको जवाब देने और यह ख़बर भेजने के लिए कि आपकी बात ऐप में शामिल हो गई है, तब तक रखा जाता है जब तक आप उन्हें मिटाने को न कहें; कहते ही उन्हें तुरंत मिटा दिया जाता है। ये हमारे iCloud स्टोरेज में और पढ़ने के लिए हमारे कंप्यूटर पर उतारी गई कॉपी में रहते हैं; कंप्यूटर वाली कॉपी बैकअप में नहीं रखी जाती। ईमेल से भेजे संदेश और जवाब के ईमेल मेलबॉक्स में रहते हैं; आप कहें तो हम उन्हें भी मिटा देते हैं। मिटवाने के लिए **smallbutbig.app@gmail.com** पर लिखें।
+- डेवलपर को भेजे संदेश: आपका लिखा, जोड़ा हुआ और जवाब पाने का पता (ईमेल पता या फ़ोन नंबर) आपको जवाब देने और यह ख़बर भेजने के लिए कि आपकी बात ऐप में शामिल हो गई है, तब तक रखा जाता है जब तक आप उन्हें मिटाने को न कहें; कहते ही उन्हें तुरंत मिटा दिया जाता है। ये हमारे iCloud स्टोरेज में और पढ़ने के लिए हमारे कंप्यूटर पर उतारी गई कॉपी में रहते हैं; कंप्यूटर वाली कॉपी बैकअप में नहीं रखी जाती। हालाँकि, जवाब लिखने के लिए हमने जिन संदेशों को देखा, उनका लिखा हिस्सा (ईमेल पते और फ़ोन नंबर छिपाकर) हमारे कंप्यूटर के काम के रिकॉर्ड में रह जाता है और उस कंप्यूटर के बैकअप में भी जा सकता है। साथ ही, 3.2 से पहले के ऐप संस्करण खुलने पर ऐसे संदेश हमारे iCloud स्टोरेज से मिटा सकते हैं जिन्हें भेजे 90 दिन बीत चुके हों। तब कंप्यूटर पर उतारी गई कॉपी बनी रहती है, लेकिन जो अटैचमेंट तब तक नहीं उतारे गए थे, वे भी साथ में मिट सकते हैं। ईमेल से भेजे संदेश और जवाब के ईमेल मेलबॉक्स में रहते हैं; आप कहें तो हम उन्हें भी मिटा देते हैं। मिटवाने के लिए **smallbutbig.app@gmail.com** पर लिखें।
 
 **5. बच्चों की निजता**
 यह ऐप खास तौर पर 13/14 साल से कम उम्र के बच्चों के लिए नहीं बनाया गया है और बच्चों से जानबूझकर व्यक्तिगत जानकारी इकट्ठा नहीं करता।
