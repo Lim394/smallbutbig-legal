@@ -6,7 +6,7 @@ permalink: /privacy
 ### 한국어
 
 **SmallButBig 개인정보처리방침**
-최종 수정일: 2026-11-19
+최종 수정일: 2026-11-23
 
 SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대표 임준범, 사업자등록번호 237-33-01894 — 이 만들고 운영합니다. 문의: **smallbutbig.app@gmail.com**
 
@@ -23,12 +23,13 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
   - 어떤 탭(달력·리뷰·통계·프로필)을 사용했는지
   - 어떤 기능(습관·이동시간·반복·세부 할 일)을 사용했는지
   - 보유한 할 일 개수의 **구간** (예: `11-50`) — 정확한 숫자는 저장하지 않습니다
-  - 날짜는 **일 단위**(예: `2026-08-10`)로만 기록하며, 시·분·초는 저장하지 않습니다
+  - 날짜는 **일 단위**(예: `2026-08-10`)로만 기록합니다. Apple CloudKit이 기록마다 자동으로 붙이는 생성 시각은 날짜별 개수를 세는 데만 씁니다
   - 앱 버전(처음 쓰기 시작한 판과 지금 판), 플랫폼(iOS/macOS)
+  - 구독을 해지할 때 앱 안에서 고른 이유(「비싸요」 · 「잘 안 써요」 · 「원하는 기능이 없어요」 · 「문제가 있어요」 중 하나) — 같은 이유는 하루 한 번, 앱 버전 · 날짜(일 단위)와 함께
   - 결제 기록: 무료 체험을 시작한 날, 처음으로 실제 결제가 된 날과 그 요금제(월간·연간·평생), 오퍼 코드로 받은 날, 환불이 확인된 날, 결제 재시도가 시작되고 끝난 날 — 모두 일 단위. App Store가 확인한 거래만 봅니다. 3.1 버전부터는 구매할 때 이 설치의 통계 번호(무작위 값)를 함께 보내, Apple이 알려 주는 거래 정보(상품, 금액, 통화, 환불 날짜와 사유 분류)를 그 설치의 사용 통계(처음·마지막으로 연 날, 앱 버전)와 이어 봅니다. 이 통계에는 결제 수단, 이름, 이메일, 광고 식별자를 보내지도 남기지도 않습니다(메타로 가는 것은 아래 「광고 효과 재기 — 메타」).
   - (iOS만) Apple 광고(Apple Ads)를 보고 설치했는지와, 그렇다면 그 광고의 캠페인·광고 그룹·키워드 **번호**, 광고를 눌렀는지 보기만 했는지, 날짜(일 단위). Apple이 AdServices로 알려 주는 값을 설치마다 한 번 받아 적습니다. 이 정보는 그 자체로 다른 앱·웹사이트에서의 활동과 연결하는 추적이 아닙니다. 앱이 띄우는 추적 허락 창은 아래 「광고 효과 재기 — 메타」 때문입니다.
 
-  **일정 제목, 폴더 이름, 메모, 장소 등 여러분이 직접 입력한 내용은 이 통계에 절대 포함되지 않습니다.** 설치 1건당 집계 기록 하나만 유지하며, 개별 행동을 시간순으로 추적하지 않습니다. Apple의 CloudKit 특성상 이 기록에는 계정을 가리키는 익명 식별자가 Apple 서버에서 자동으로 부여되지만, 이 앱은 그 값을 읽거나 조회 조건으로 사용하지 않습니다.
+  **일정 제목, 폴더 이름, 메모, 장소 등 여러분이 직접 입력한 내용은 이 통계에 절대 포함되지 않습니다.** 설치 1건당 집계 기록 하나를 유지하고, 해지 이유는 고른 날마다 이유 한 줄로만 남깁니다. 이 기록은 날짜별 개수를 세는 데만 쓰며, 사람별로 묶거나 시간순으로 따라가지 않습니다. Apple의 CloudKit 특성상 이 기록에는 계정을 가리키는 익명 식별자가 Apple 서버에서 자동으로 부여되지만, 이 앱은 그 값을 읽거나 조회 조건으로 사용하지 않습니다.
 - **문의(「문의하기」로 보내실 때만)**: 「보내기」를 누르면 아래 내용이 개발자의 iCloud(CloudKit) 저장소로 전송됩니다.
   - 적어 주신 글(2,000자까지)과 고른 종류(쓰는 법·오류·제안·기타 — 고르지 않아도 됩니다)
   - 답장 받을 메일 주소 또는 전화번호 — 답장과, 말씀하신 것이 앱에 반영되면 그 소식을 보내는 데만 씁니다.
@@ -53,6 +54,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
 - 기기 내 데이터: 앱을 삭제하면 기기에 저장된 데이터도 함께 삭제됩니다.
 - iCloud 데이터: 기기 설정 > [본인 이름] > iCloud에서 이용자가 직접 관리·삭제할 수 있으며, 이는 전적으로 Apple의 iCloud 정책을 따릅니다.
 - 문의: 문의 글 · 캡처 · 답장 받을 주소(메일 주소 또는 전화번호)는 답장과 반영 소식을 위해 지워 달라 하실 때까지 보관하고, 말씀하시면 바로 지웁니다. 보관하는 자리는 개발자의 iCloud 저장소와, 개발자가 읽으려고 컴퓨터에 받아 둔 사본이며, 컴퓨터에 둔 사본은 백업에 넣지 않습니다. 다만 답장을 쓰려고 살펴본 문의 글(메일 주소 · 전화번호는 가린 채)은 개발자 컴퓨터의 작업 기록에 남아 그 컴퓨터의 백업에 함께 들어갈 수 있습니다. 또 앱 3.2.7보다 앞선 판은 앱을 켤 때 보낸 지 90일이 지난 문의를 iCloud 저장소에서 지울 수 있습니다. 이때 컴퓨터에 받아 둔 사본은 남지만, 그 전에 받아 두지 못한 캡처는 함께 지워질 수 있습니다. 메일로 보내신 문의와 답장을 주고받은 메일은 메일함에 남으며, 이것도 요청하시면 지웁니다. 지워 달라는 요청은 **smallbutbig.app@gmail.com**으로 보내 주세요.
+- 해지 이유 기록: 날짜별 개수를 센 뒤 90일이 지나면 지웁니다.
 - 메타로 보낸 기록: 메타가 받은 뒤의 보관 · 삭제는 메타의 개인정보처리방침과 비즈니스 도구 약관을 따르며, 개발자는 메타로 간 기록을 따로 보관하지 않습니다. 보내지 않게 하시려면 iOS 「설정 › 개인정보 보호 및 보안 › 추적」에서 SmallButBig을 끄세요 — 그때부터 보내지 않습니다. 메타 계정이 있으시면 메타 설정의 「Meta 기술 외부 활동」에서 이 앱이 보낸 활동을 보고 끊거나 지울 수 있습니다.
 
 **5. 아동의 개인정보**
@@ -69,7 +71,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
 ### English
 
 **SmallButBig Privacy Policy**
-Last updated: 2026-11-19
+Last updated: 2026-11-23
 
 SmallButBig ("the App") is made and operated by **SmallButBig**, a sole-proprietor business registered in South Korea (owner: Junbeom Lim, business registration no. 237-33-01894). Contact: **smallbutbig.app@gmail.com**
 
@@ -86,12 +88,13 @@ Everything you write in the app (schedules, tasks, notes) stays **on your device
   - Which tabs (Calendar, Review, Stats, Profile) you used
   - Which features (habits, transit time, recurrence, subtasks) you used
   - A **range** for how many tasks you have (e.g. `11-50`) — never the exact number
-  - Dates recorded **by day only** (e.g. `2026-08-10`); no hour, minute, or second
+  - Dates recorded **by day only** (e.g. `2026-08-10`). The creation time that Apple's CloudKit automatically attaches to each record is used only to count records per day
   - App version (the version you started with and the current one) and platform (iOS/macOS)
+  - The reason you picked in the app when canceling a subscription (one of "It's too expensive", "I don't use it much", "A feature I need is missing", or "Something isn't working") — at most once a day for the same reason, together with the app version and the date (by day only)
   - Purchase milestones: the day a free trial started, the day you were first actually charged and which plan (monthly, yearly, lifetime), the day you redeemed an offer code, the day a refund was confirmed, and the days a billing retry started and ended — all by day only. Only transactions verified by the App Store are used. Starting with version 3.1, a purchase also carries this installation's random statistics ID, so the transaction details Apple reports to us (product, price, currency, refund date and refund reason category) can be matched with that installation's usage statistics (first and last day opened, app version). These statistics never include your payment method, name, email, or advertising identifier (what goes to Meta is described under "Ad measurement — Meta" below).
   - (iOS only) Whether you installed the app from an Apple Ads ad and, if so, that ad's campaign, ad group, and keyword **numbers**, whether you tapped the ad or only saw it, and the date (by day). We receive these values from Apple's AdServices once per installation. This information is not, by itself, tracking across other apps or websites. The tracking prompt the app shows is for "Ad measurement — Meta" below.
 
-  **Task titles, folder names, notes, places, and anything else you type are never included.** We keep a single aggregate record per installation and do not trace individual actions over time. Because of how Apple's CloudKit works, Apple's servers automatically attach an anonymous account identifier to this record; our app never reads that value or uses it to look anything up.
+  **Task titles, folder names, notes, places, and anything else you type are never included.** We keep a single aggregate record per installation, and a cancellation reason only as one line per day it was picked. These records are used only to count per day; we never group them by person or follow them over time. Because of how Apple's CloudKit works, Apple's servers automatically attach an anonymous account identifier to this record; our app never reads that value or uses it to look anything up.
 - **Messages to the developer (only when you send one with "Contact Us")**: When you tap Send, the following goes to our own iCloud (CloudKit) storage:
   - What you wrote (up to 2,000 characters) and the topic you picked (How to use, Bug, Idea, Other — picking one is optional)
   - The email address or phone number for our reply. We use it only to reply and to let you know when what you asked for has made it into the app.
@@ -116,6 +119,7 @@ Other than Apple (for iCloud sync, CloudKit, App Store payments, and Apple Ads i
 - On-device data is deleted when you delete the app.
 - iCloud data is managed entirely under your own Apple ID (Settings > [Your Name] > iCloud) and follows Apple's iCloud policies.
 - Messages to the developer: what you wrote, what you attached and your reply address (email address or phone number) are kept so we can reply and let you know when your request has made it into the app, until you ask us to delete them; when you ask, we delete them right away. They are kept in our iCloud storage and in the copy we download to our computer to read them; the copy on our computer is kept out of backups. However, the text of messages we looked at to write a reply (with email addresses and phone numbers masked) stays in our computer's work records and may be included in that computer's backups. Also, versions of the app before 3.2.7 may delete messages from our iCloud storage when the app is opened, once 90 days have passed since they were sent. The copy already on our computer stays, but attachments we had not downloaded by then may be deleted with them. Messages you sent by email and our email replies stay in the mailbox; we delete those too if you ask. To ask, write to **smallbutbig.app@gmail.com**.
+- Cancellation reasons: deleted 90 days after they are counted per day.
 - What was sent to Meta: once Meta receives it, retention and deletion follow Meta's privacy policy and Business Tools terms; we keep no copy of what went to Meta. To stop sending, turn SmallButBig off in iOS Settings › Privacy & Security › Tracking — nothing more is sent from then on. If you have a Meta account, "Your activity off Meta technologies" in Meta's settings lets you see, disconnect or clear the activity this app sent.
 
 **5. Children's privacy**
@@ -132,7 +136,7 @@ This policy may be updated as the app evolves. The "Last updated" date above wil
 ### 日本語
 
 **SmallButBig プライバシーポリシー**
-最終更新日: 2026-11-19
+最終更新日: 2026-11-23
 
 SmallButBig（「本アプリ」）は、韓国で登録された個人事業者 **SmallButBig**（代表: Junbeom Lim、事業者登録番号 237-33-01894）が制作・運営しています。お問い合わせ: **smallbutbig.app@gmail.com**
 
@@ -149,12 +153,13 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
   - どのタブ（Calendar・Review・Stats・Profile）を使ったか
   - どの機能（習慣・移動時間・繰り返し・チェックリスト）を使ったか
   - 持っているタスク数の**範囲**（例: `11-50`）— 正確な数は保存しません
-  - 日付は**日単位**（例: `2026-08-10`）でのみ記録し、時・分・秒は保存しません
+  - 日付は**日単位**（例: `2026-08-10`）でのみ記録します。Apple の CloudKit がレコードごとに自動的に付与する作成時刻は、日付ごとの件数を数えるためだけに使います
   - アプリのバージョン（使い始めたときのバージョンと現在のバージョン）、プラットフォーム（iOS/macOS）
+  - サブスクリプションを解約するときにアプリ内で選んだ理由（「料金が高い」「あまり使っていない」「欲しい機能がない」「不具合がある」のいずれか）— 同じ理由は1日に1回だけ、アプリのバージョン・日付（日単位）と一緒に
   - 購入の記録：無料体験を始めた日、初めて実際に課金された日とそのプラン（月額・年額・買い切り）、オファーコードを使った日、返金が確認された日、支払いの再試行が始まった日と終わった日 — いずれも日単位。App Store が確認した取引だけを使います。バージョン 3.1 からは、購入時にこのインストールの統計番号（ランダムな値）を一緒に送り、Apple から届く取引情報（商品、金額、通貨、返金日と返金理由の区分）を、そのインストールの利用統計（最初と最後に開いた日、アプリのバージョン）と結び付けます。この統計には支払い方法・名前・メールアドレス・広告識別子を送信も保存もしません（Meta に送るものは下の「広告の効果測定 — Meta」）。
   - （iOSのみ）Apple 広告（Apple Ads）を見てインストールしたかどうかと、その場合はその広告のキャンペーン・広告グループ・キーワードの**番号**、広告をタップしたか見ただけか、日付（日単位）。Apple が AdServices で知らせる値を、インストールごとに一度だけ受け取って記録します。この情報はそれ自体、他のアプリやウェブサイトでの行動と結びつける追跡ではありません。アプリが表示するトラッキング許可の画面は、下の「広告の効果測定 — Meta」のためのものです。
 
-  **予定のタイトル、フォルダ名、メモ、場所など、ご自身で入力した内容がこの統計に含まれることは決してありません。** インストール1件につき集計レコードを1つだけ保持し、個々の行動を時系列で追跡することはありません。Apple の CloudKit の仕組み上、このレコードにはアカウントを指す匿名の識別子が Apple のサーバーによって自動的に付与されますが、本アプリはその値を読み取ることも、検索の条件として使うこともありません。
+  **予定のタイトル、フォルダ名、メモ、場所など、ご自身で入力した内容がこの統計に含まれることは決してありません。** インストール1件につき集計レコードを1つ保持し、解約の理由は選んだ日ごとに理由1行としてのみ残します。これらのレコードは日付ごとの件数を数えるためだけに使い、人ごとにまとめたり時系列で追ったりすることはありません。Apple の CloudKit の仕組み上、このレコードにはアカウントを指す匿名の識別子が Apple のサーバーによって自動的に付与されますが、本アプリはその値を読み取ることも、検索の条件として使うこともありません。
 - **お問い合わせ（「お問い合わせ」から送信したときのみ）**: 「送信」をタップすると、以下の内容が開発者のiCloud（CloudKit）ストレージへ送信されます。
   - 書いた内容（2,000文字まで）と選んだ種類（使い方・不具合・提案・その他 — 選ばなくても送れます）
   - 返信を受け取るメールアドレスまたは電話番号 — 返信と、ご要望がアプリに反映されたときのお知らせを送るためだけに使います。
@@ -179,6 +184,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
 - 端末内のデータ: アプリを削除すると、端末に保存されたデータも一緒に削除されます。
 - iCloud のデータ: 「設定」App > [ご自身の名前] > iCloud から利用者ご自身で管理・削除でき、これは全面的に Apple の iCloud ポリシーに従います。
 - お問い合わせ: 書いた内容・添付・返信先（メールアドレスまたは電話番号）は、返信とご要望の反映のお知らせのため、削除をご依頼いただくまで保管し、ご依頼があればすぐに削除します。保管する場所は開発者のiCloudストレージと、開発者が読むためにコンピュータに保存したコピーで、コンピュータのコピーはバックアップに含めません。ただし、返信を書くために確認したお問い合わせの文面（メールアドレス・電話番号は伏せた状態）は開発者のコンピュータの作業記録に残り、そのコンピュータのバックアップに含まれることがあります。また、バージョン3.2.7より前のアプリは、起動時に送信から90日が過ぎたお問い合わせをiCloudストレージから削除することがあります。このときコンピュータに保存済みのコピーは残りますが、それまでに保存していなかった添付は一緒に削除されることがあります。メールで送られたお問い合わせと、返信をやり取りしたメールはメールボックスに残り、これもご依頼があれば削除します。削除のご依頼は **smallbutbig.app@gmail.com** までお送りください。
+- 解約の理由の記録: 日付ごとの件数を数えた後、90日が過ぎたら削除します。
 - Meta に送った記録：Meta が受け取った後の保管・削除は、Meta のプライバシーポリシーとビジネスツール規約に従います。開発者は Meta に送った記録を別に保管しません。送らないようにするには、iOS の「設定 › プライバシーとセキュリティ › トラッキング」で SmallButBig をオフにしてください。その時点から送りません。Meta のアカウントをお持ちなら、Meta の設定の「Metaテクノロジー外のアクティビティ」で、このアプリが送ったアクティビティを確認し、切り離したり消去したりできます。
 
 **5. 子どものプライバシー**
@@ -195,7 +201,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
 ### 简体中文
 
 **SmallButBig 隐私政策**
-最后更新：2026-11-19
+最后更新：2026-11-23
 
 SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButBig**（代表人：Junbeom Lim，事业者登记号 237-33-01894）制作并运营。联系方式：**smallbutbig.app@gmail.com**
 
@@ -212,12 +218,13 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
   - 使用了哪些标签页（Calendar、Review、Stats、Profile）
   - 使用了哪些功能（习惯、出行时间、重复、子任务）
   - 待办数量所在的**区间**（如 `11-50`）——不记录准确数字
-  - 日期只记录到**天**（如 `2026-08-10`），不保存时、分、秒
+  - 日期只记录到**天**（如 `2026-08-10`）。Apple CloudKit 自动为每条记录附加的创建时间只用于按日期统计条数
   - 应用版本（开始使用时的版本和当前版本）、平台（iOS/macOS）
+  - 取消订阅时你在应用内选择的原因（“太贵了”“不怎么用”“没有我想要的功能”“遇到了问题”之一）——同一原因每天只记录一次，并附上应用版本和日期（精确到天）
   - 购买记录：开始免费试用的日期、首次实际扣款的日期及其套餐（月度、年度、终身）、兑换优惠码的日期、确认退款的日期、扣款重试开始和结束的日期——都只记录到天。只使用经 App Store 验证的交易。从 3.1 版本起，购买时会附带本次安装的统计编号（随机值），以便将 Apple 告知我们的交易信息（商品、金额、币种、退款日期及退款原因类别）与该安装的使用统计（首次和最后一次打开的日期、应用版本）对应起来。这些统计不会发送或保存支付方式、姓名、电子邮件或广告标识符（发送给 Meta 的内容见下方“广告效果衡量 — Meta”）。
   - （仅限 iOS）是否通过 Apple 广告（Apple Ads）安装；如果是，记录该广告的广告系列、广告组和关键词的**编号**，你是点击了广告还是只看到了广告，以及日期（精确到天）。这些值由 Apple 的 AdServices 提供，每次安装只接收一次。这些信息本身不是跨其他应用或网站的追踪。本应用显示的跟踪许可窗口是为了下方的“广告效果衡量 — Meta”。
 
-  **日程标题、文件夹名称、备注、地点等你亲手输入的内容，绝不会包含在这些统计里。** 每次安装只保留一条汇总记录，不会按时间顺序追踪你的每一步操作。由于 Apple CloudKit 的机制，Apple 的服务器会自动为这条记录附加一个指向账户的匿名标识符，但本应用从不读取该值，也不会用它作为查询条件。
+  **日程标题、文件夹名称、备注、地点等你亲手输入的内容，绝不会包含在这些统计里。** 每次安装保留一条汇总记录，取消订阅的原因则在选择它的每一天只留下一条记录。这些记录只用于按日期统计条数，不会按人分组，也不会按时间顺序追踪。由于 Apple CloudKit 的机制，Apple 的服务器会自动为这条记录附加一个指向账户的匿名标识符，但本应用从不读取该值，也不会用它作为查询条件。
 - **联系开发者（仅在你通过“联系我们”发送时）**：点按“发送”后，以下内容会发送到开发者自己的 iCloud（CloudKit）存储：
   - 你写的内容（最多 2,000 字）和你选择的类型（使用方法、问题、建议、其他——不选也可以发送）
   - 用于接收回复的邮箱地址或电话号码——只用于给你回复，以及在你提出的内容反映到应用中时通知你。
@@ -242,6 +249,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
 - 设备上的数据：删除应用时，设备上保存的数据也会一并删除。
 - iCloud 数据：可在“设置”>[你的姓名]>iCloud 中自行管理和删除，完全遵循 Apple 的 iCloud 政策。
 - 联系开发者的消息：你写的内容、附件和回复地址（邮箱地址或电话号码）会为了给你回复、并通知你所提内容已反映到应用中而一直保存，直到你要求删除；你提出要求时会立即删除。保存的位置是开发者的 iCloud 存储，以及开发者为阅读而下载到电脑上的副本；电脑上的副本不放入备份。不过，开发者为写回复而查看过的消息内容（邮箱地址和电话号码已遮盖）会留在开发者电脑的工作记录中，并可能随这台电脑的备份一起保存。另外，3.2.7 之前版本的应用在打开时，可能会从 iCloud 存储中删除发送已满 90 天的消息。此时已下载到电脑上的副本会保留，但在此之前尚未下载的附件可能会一并被删除。通过邮件发送的消息和往来的回复邮件会留在邮箱中，你提出要求时我们也会删除。如需删除，请发邮件至 **smallbutbig.app@gmail.com**。
+- 取消订阅原因的记录：按日期统计条数后，满 90 天即删除。
 - 已发送给 Meta 的记录：Meta 收到后的保存与删除依照 Meta 的隐私政策和商务工具条款；开发者不另外保存发送给 Meta 的记录。要停止发送，请在 iOS“设置 › 隐私与安全性 › 跟踪”中关闭 SmallButBig，从那时起不再发送。如果你有 Meta 账户，可以在 Meta 设置的“你在 Meta 技术之外的活动”中查看、断开或清除本应用发送的活动。
 
 **5. 儿童隐私**
@@ -258,7 +266,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
 ### Deutsch
 
 **SmallButBig Datenschutzerklärung**
-Zuletzt aktualisiert: 2026-11-19
+Zuletzt aktualisiert: 2026-11-23
 
 SmallButBig („die App“) wird von **SmallButBig**, einem in Südkorea eingetragenen Einzelunternehmen (Inhaber: Junbeom Lim, Unternehmensregisternummer 237-33-01894), erstellt und betrieben. Kontakt: **smallbutbig.app@gmail.com**
 
@@ -275,12 +283,13 @@ Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf de
   - Welche Tabs (Calendar, Review, Stats, Profile) du benutzt hast
   - Welche Funktionen (Gewohnheiten, Anfahrtszeit, Wiederholung, Checklisten) du benutzt hast
   - Eine **Spanne**, wie viele Aufgaben du hast (z. B. `11-50`) — nie die genaue Zahl
-  - Datumsangaben **nur tagesgenau** (z. B. `2026-08-10`), ohne Stunde, Minute oder Sekunde
+  - Datumsangaben **nur tagesgenau** (z. B. `2026-08-10`). Den Erstellungszeitpunkt, den Apples CloudKit jedem Datensatz automatisch anhängt, nutzen wir nur, um die Datensätze pro Tag zu zählen
   - App-Version (die Version, mit der du angefangen hast, und die aktuelle) und Plattform (iOS/macOS)
+  - Der Grund, den du beim Kündigen deines Abos in der App gewählt hast (einer von „Zu teuer“, „Ich nutze es kaum“, „Mir fehlt eine Funktion“ oder „Etwas funktioniert nicht“) — derselbe Grund höchstens einmal pro Tag, zusammen mit der App-Version und dem Datum (tagesgenau)
   - Kauf-Meilensteine: der Tag, an dem ein Gratis-Test begann, der Tag der ersten tatsächlichen Abbuchung und der Tarif (monatlich, jährlich, lebenslang), der Tag, an dem du einen Angebotscode eingelöst hast, der Tag einer bestätigten Rückerstattung sowie Beginn und Ende eines erneuten Abbuchungsversuchs — jeweils nur tagesgenau. Verwendet werden nur vom App Store bestätigte Transaktionen. Ab Version 3.1 wird bei einem Kauf zusätzlich die zufällige Statistik-ID dieser Installation mitgesendet, damit die Transaktionsangaben, die Apple uns meldet (Produkt, Preis, Währung, Erstattungsdatum und Kategorie des Erstattungsgrunds), mit der Nutzungsstatistik dieser Installation (erster und letzter Öffnungstag, App-Version) verknüpft werden können. In diese Statistik gelangen weder Zahlungsmittel noch Name, E-Mail-Adresse oder Werbe-ID (was an Meta geht, steht unten unter „Werbemessung — Meta“).
   - (nur iOS) Ob du die App über eine Apple-Ads-Anzeige installiert hast und, falls ja, die **Nummern** von Kampagne, Anzeigengruppe und Keyword dieser Anzeige, ob du die Anzeige angetippt oder nur gesehen hast, sowie das Datum (tagesgenau). Diese Werte erhalten wir einmal pro Installation von Apples AdServices. Diese Angaben sind für sich genommen kein Tracking über andere Apps oder Websites hinweg. Die Tracking-Abfrage der App gehört zur „Werbemessung — Meta“ weiter unten.
 
-  **Titel von Terminen, Ordnernamen, Notizen, Orte und alles andere, was du eintippst, sind nie dabei.** Wir behalten pro Installation genau einen zusammengefassten Datensatz und verfolgen keine einzelnen Handlungen über die Zeit. Technisch bedingt hängt Apples CloudKit diesem Datensatz auf Apples Servern automatisch eine anonyme Konto-Kennung an; unsere App liest diesen Wert nie und schlägt damit auch nichts nach.
+  **Titel von Terminen, Ordnernamen, Notizen, Orte und alles andere, was du eintippst, sind nie dabei.** Wir behalten pro Installation einen zusammengefassten Datensatz, und einen Kündigungsgrund halten wir nur als eine Zeile für jeden Tag fest, an dem er gewählt wurde. Diese Datensätze nutzen wir nur, um sie pro Tag zu zählen; wir gruppieren sie nie nach Personen und verfolgen sie nicht über die Zeit. Technisch bedingt hängt Apples CloudKit diesem Datensatz auf Apples Servern automatisch eine anonyme Konto-Kennung an; unsere App liest diesen Wert nie und schlägt damit auch nichts nach.
 - **Nachrichten an den Entwickler (nur wenn du über „Kontakt“ eine sendest)**: Wenn du auf „Senden“ tippst, geht Folgendes an unseren eigenen iCloud-Speicher (CloudKit):
   - Was du geschrieben hast (bis zu 2.000 Zeichen) und das gewählte Thema (Bedienung, Fehler, Idee, Sonstiges — die Auswahl ist freiwillig)
   - Die E-Mail-Adresse oder Telefonnummer für unsere Antwort. Wir nutzen sie nur für die Antwort und um dir Bescheid zu geben, wenn dein Anliegen in die App eingeflossen ist.
@@ -305,6 +314,7 @@ Außer an Apple (für iCloud-Sync, CloudKit, App-Store-Zahlungen und Apple-Ads-A
 - Daten auf dem Gerät werden gelöscht, sobald du die App löschst.
 - iCloud-Daten verwaltest du vollständig selbst unter deiner Apple-ID (Einstellungen > [Dein Name] > iCloud); dafür gelten Apples iCloud-Richtlinien.
 - Nachrichten an den Entwickler: Was du geschrieben und angehängt hast und deine Antwortadresse (E-Mail-Adresse oder Telefonnummer) bewahren wir auf, damit wir dir antworten und Bescheid geben können, wenn dein Anliegen in die App eingeflossen ist — bis du uns bittest, sie zu löschen; dann löschen wir sie sofort. Sie liegen in unserem iCloud-Speicher und in der Kopie, die wir zum Lesen auf unseren Computer laden; die Kopie auf unserem Computer kommt in keine Datensicherung. Der Text von Nachrichten, die wir uns zum Antworten angesehen haben (E-Mail-Adressen und Telefonnummern unkenntlich gemacht), bleibt allerdings in den Arbeitsprotokollen auf unserem Computer und kann so in dessen Datensicherung gelangen. Außerdem können App-Versionen vor 3.2.7 beim Öffnen Nachrichten, die vor mehr als 90 Tagen gesendet wurden, aus unserem iCloud-Speicher löschen. Die Kopie auf unserem Computer bleibt dann erhalten, Anhänge, die wir bis dahin nicht heruntergeladen haben, können aber mitgelöscht werden. Per E-Mail gesendete Nachrichten und unsere Antwort-E-Mails bleiben im Postfach; auch sie löschen wir auf Wunsch. Schreib uns dafür an **smallbutbig.app@gmail.com**.
+- Kündigungsgründe: Wir löschen sie 90 Tage, nachdem wir sie pro Tag gezählt haben.
 - An Meta Gesendetes: Sobald Meta es erhalten hat, richten sich Aufbewahrung und Löschung nach Metas Datenschutzrichtlinie und den Nutzungsbedingungen für Business-Tools; wir behalten keine Kopie davon. Um das Senden zu beenden, schalte SmallButBig unter iOS „Einstellungen › Datenschutz & Sicherheit › Tracking“ aus — ab dann wird nichts mehr gesendet. Wenn du ein Meta-Konto hast, kannst du unter „Deine Aktivitäten außerhalb der Meta-Technologien“ in Metas Einstellungen die Aktivitäten dieser App ansehen, trennen oder löschen.
 
 **5. Kinder**
@@ -321,7 +331,7 @@ Diese Erklärung kann sich mit der App weiterentwickeln. Das Datum „Zuletzt ak
 ### हिन्दी
 
 **SmallButBig गोपनीयता नीति**
-अंतिम अपडेट: 2026-11-19
+अंतिम अपडेट: 2026-11-23
 
 SmallButBig ("यह ऐप") को दक्षिण कोरिया में पंजीकृत एकल-स्वामित्व व्यवसाय **SmallButBig** (स्वामी: Junbeom Lim, व्यवसाय पंजीकरण सं. 237-33-01894) बनाता और चलाता है। संपर्क: **smallbutbig.app@gmail.com**
 
@@ -338,12 +348,13 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
   - आपने कौन-से टैब (Calendar, Review, Stats, Profile) इस्तेमाल किए
   - आपने कौन-सी सुविधाएँ (आदत, यात्रा समय, दोहराव, चेकलिस्ट) इस्तेमाल कीं
   - आपके पास कितने काम हैं, उसका **दायरा** (जैसे `11-50`) — सटीक संख्या कभी नहीं
-  - तारीख़ सिर्फ़ **दिन के स्तर पर** (जैसे `2026-08-10`); घंटा, मिनट या सेकंड नहीं
+  - तारीख़ सिर्फ़ **दिन के स्तर पर** (जैसे `2026-08-10`)। Apple का CloudKit हर रिकॉर्ड के साथ जो बनने का समय अपने-आप जोड़ देता है, उसका इस्तेमाल सिर्फ़ तारीख़ के हिसाब से रिकॉर्ड गिनने के लिए होता है
   - ऐप का संस्करण (जिस संस्करण से आपने शुरुआत की और मौजूदा संस्करण) और प्लैटफ़ॉर्म (iOS/macOS)
+  - सदस्यता रद्द करते समय आपने ऐप में जो वजह चुनी ("बहुत महँगा है", "इस्तेमाल कम होता है", "ज़रूरी फ़ीचर नहीं है" या "कुछ ठीक से नहीं चल रहा" में से एक) — एक ही वजह दिन में सिर्फ़ एक बार, ऐप के संस्करण और तारीख़ (दिन के स्तर पर) के साथ
   - खरीद से जुड़ी तारीख़ें: मुफ़्त ट्रायल शुरू होने का दिन, पहली बार असल में भुगतान कटने का दिन और उसका प्लान (मासिक, वार्षिक, लाइफ़टाइम), ऑफ़र कोड इस्तेमाल करने का दिन, रिफ़ंड पक्का होने का दिन, और भुगतान की दोबारा कोशिश शुरू व ख़त्म होने के दिन — सब सिर्फ़ दिन के स्तर पर। सिर्फ़ App Store से पुष्टि हुए लेन-देन ही देखे जाते हैं। वर्ज़न 3.1 से, खरीद के साथ इस इंस्टॉलेशन का एक रैंडम आँकड़ा नंबर भी भेजा जाता है, ताकि Apple जो लेन-देन की जानकारी हमें बताता है (प्रोडक्ट, क़ीमत, मुद्रा, रिफ़ंड की तारीख़ और रिफ़ंड की वजह की श्रेणी) उसे उसी इंस्टॉलेशन के इस्तेमाल के आँकड़ों (पहली और आख़िरी बार खोलने का दिन, ऐप वर्ज़न) से जोड़ा जा सके। इन आँकड़ों में भुगतान का तरीका, नाम, ईमेल या विज्ञापन पहचानकर्ता न भेजा जाता है, न सहेजा जाता है (Meta को क्या जाता है, यह नीचे "विज्ञापन का असर मापना — Meta" में है)।
   - (सिर्फ़ iOS) आपने ऐप Apple Ads के किसी विज्ञापन से इंस्टॉल किया या नहीं; अगर हाँ, तो उस विज्ञापन के कैंपेन, ऐड ग्रुप और कीवर्ड के **नंबर**, आपने विज्ञापन पर टैप किया या सिर्फ़ देखा, और तारीख़ (दिन के स्तर पर)। ये मान हर इंस्टॉल पर एक बार Apple के AdServices से मिलते हैं। यह जानकारी अपने आप में दूसरे ऐप या वेबसाइटों की गतिविधि से जोड़ने वाली ट्रैकिंग नहीं है। ऐप जो ट्रैकिंग अनुमति वाली विंडो दिखाता है, वह नीचे "विज्ञापन का असर मापना — Meta" के लिए है।
 
-  **इवेंट के शीर्षक, फ़ोल्डर के नाम, नोट, जगह — आपका लिखा कुछ भी इन आँकड़ों में कभी शामिल नहीं होता।** हर इंस्टॉल के लिए सिर्फ़ एक सारांश रिकॉर्ड रखा जाता है; आपकी अलग-अलग गतिविधियों को समय के क्रम में ट्रैक नहीं किया जाता। Apple के CloudKit की बनावट के कारण Apple के सर्वर इस रिकॉर्ड के साथ खाते का एक गुमनाम पहचानकर्ता अपने-आप जोड़ देते हैं, पर यह ऐप उस मान को न कभी पढ़ता है, न उसे खोज की शर्त के रूप में इस्तेमाल करता है।
+  **इवेंट के शीर्षक, फ़ोल्डर के नाम, नोट, जगह — आपका लिखा कुछ भी इन आँकड़ों में कभी शामिल नहीं होता।** हर इंस्टॉल के लिए एक सारांश रिकॉर्ड रखा जाता है, और सदस्यता रद्द करने की वजह को, जिस-जिस दिन वह चुनी गई, उस दिन की सिर्फ़ एक लाइन के रूप में रखा जाता है। इन रिकॉर्डों का इस्तेमाल सिर्फ़ तारीख़ के हिसाब से गिनती के लिए होता है; इन्हें न व्यक्ति के हिसाब से एक साथ जोड़ा जाता है, न समय के क्रम में ट्रैक किया जाता है। Apple के CloudKit की बनावट के कारण Apple के सर्वर इस रिकॉर्ड के साथ खाते का एक गुमनाम पहचानकर्ता अपने-आप जोड़ देते हैं, पर यह ऐप उस मान को न कभी पढ़ता है, न उसे खोज की शर्त के रूप में इस्तेमाल करता है।
 - **डेवलपर को संदेश (सिर्फ़ जब आप "संपर्क करें" से भेजते हैं)**: "भेजें" पर टैप करते ही नीचे दी गई बातें हमारे अपने iCloud (CloudKit) स्टोरेज में भेजी जाती हैं।
   - आपने जो लिखा (2,000 अक्षरों तक) और आपका चुना हुआ विषय (इस्तेमाल का तरीका, गड़बड़ी, सुझाव, अन्य — चुनना ज़रूरी नहीं)
   - जवाब पाने का ईमेल पता या फ़ोन नंबर — इसका इस्तेमाल सिर्फ़ जवाब भेजने के लिए, और आपकी बात ऐप में शामिल हो जाने पर आपको बताने के लिए होता है।
@@ -368,6 +379,7 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
 - डिवाइस का डेटा: ऐप हटाते ही डिवाइस में सहेजा डेटा भी मिट जाता है।
 - iCloud का डेटा: आप इसे अपनी Apple ID के तहत खुद संभालते हैं (सेटिंग्स > [आपका नाम] > iCloud); उस पर Apple की iCloud नीतियाँ लागू होती हैं।
 - डेवलपर को भेजे संदेश: आपका लिखा, जोड़ा हुआ और जवाब पाने का पता (ईमेल पता या फ़ोन नंबर) आपको जवाब देने और यह ख़बर भेजने के लिए कि आपकी बात ऐप में शामिल हो गई है, तब तक रखा जाता है जब तक आप उन्हें मिटाने को न कहें; कहते ही उन्हें तुरंत मिटा दिया जाता है। ये हमारे iCloud स्टोरेज में और पढ़ने के लिए हमारे कंप्यूटर पर उतारी गई कॉपी में रहते हैं; कंप्यूटर वाली कॉपी बैकअप में नहीं रखी जाती। हालाँकि, जवाब लिखने के लिए हमने जिन संदेशों को देखा, उनका लिखा हिस्सा (ईमेल पते और फ़ोन नंबर छिपाकर) हमारे कंप्यूटर के काम के रिकॉर्ड में रह जाता है और उस कंप्यूटर के बैकअप में भी जा सकता है। साथ ही, 3.2.7 से पहले के ऐप संस्करण खुलने पर ऐसे संदेश हमारे iCloud स्टोरेज से मिटा सकते हैं जिन्हें भेजे 90 दिन बीत चुके हों। तब कंप्यूटर पर उतारी गई कॉपी बनी रहती है, लेकिन जो अटैचमेंट तब तक नहीं उतारे गए थे, वे भी साथ में मिट सकते हैं। ईमेल से भेजे संदेश और जवाब के ईमेल मेलबॉक्स में रहते हैं; आप कहें तो हम उन्हें भी मिटा देते हैं। मिटवाने के लिए **smallbutbig.app@gmail.com** पर लिखें।
+- सदस्यता रद्द करने की वजहों के रिकॉर्ड: तारीख़ के हिसाब से गिनती के बाद, 90 दिन बीतने पर उन्हें मिटा दिया जाता है।
 - Meta को भेजी गई जानकारी: Meta के पास पहुँचने के बाद उसे रखना और मिटाना Meta की निजता नीति और बिज़नेस टूल्स की शर्तों के अनुसार होता है; हम Meta को भेजी गई जानकारी की कोई कॉपी नहीं रखते। भेजना रोकने के लिए iOS की "सेटिंग्ज़ › गोपनीयता और सुरक्षा › ट्रैकिंग" में SmallButBig बंद करें — तब से कुछ नहीं भेजा जाता। अगर आपका Meta खाता है, तो Meta की सेटिंग में "Meta तकनीकों के बाहर आपकी गतिविधि" में इस ऐप की भेजी गतिविधि देख, अलग कर या मिटा सकते हैं।
 
 **5. बच्चों की निजता**
