@@ -23,7 +23,7 @@ SmallButBig("이 앱")은 1인 사업자 **스몰벗빅(SmallButBig)** — 대�
   - 어떤 탭(달력·리뷰·통계·프로필)을 사용했는지
   - 어떤 기능(습관·이동시간·반복·세부 할 일)을 사용했는지
   - 보유한 할 일 개수의 **구간** (예: `11-50`) — 정확한 숫자는 저장하지 않습니다
-  - 날짜는 **일 단위**(예: `2026-08-10`)로만 기록합니다
+  - 날짜는 **일 단위**(예: `2026-08-10`)로만 기록하며, 시·분·초는 저장하지 않습니다
   - 앱 버전(처음 쓰기 시작한 판과 지금 판), 플랫폼(iOS/macOS)
   - 구독을 해지할 때 앱 안에서 고른 이유(「비싸요」 · 「잘 안 써요」 · 「원하는 기능이 없어요」 · 「문제가 있어요」 중 하나) — 같은 이유는 하루 한 번, 앱 버전 · 날짜(일 단위)와 함께
   - 결제 기록: 무료 체험을 시작한 날, 처음으로 실제 결제가 된 날과 그 요금제(월간·연간·평생), 오퍼 코드로 받은 날, 환불이 확인된 날, 결제 재시도가 시작되고 끝난 날 — 모두 일 단위. App Store가 확인한 거래만 봅니다. 3.1 버전부터는 구매할 때 이 설치의 통계 번호(무작위 값)를 함께 보내, Apple이 알려 주는 거래 정보(상품, 금액, 통화, 환불 날짜와 사유 분류)를 그 설치의 사용 통계(처음·마지막으로 연 날, 앱 버전)와 이어 봅니다. 이 통계에는 결제 수단, 이름, 이메일, 광고 식별자를 보내지도 남기지도 않습니다(메타로 가는 것은 아래 「광고 효과 재기 — 메타」).
@@ -87,7 +87,7 @@ Everything you write in the app (schedules, tasks, notes) stays **on your device
   - Which tabs (Calendar, Review, Stats, Profile) you used
   - Which features (habits, transit time, recurrence, subtasks) you used
   - A **range** for how many tasks you have (e.g. `11-50`) — never the exact number
-  - Dates recorded **by day only** (e.g. `2026-08-10`)
+  - Dates recorded **by day only** (e.g. `2026-08-10`); no hour, minute, or second
   - App version (the version you started with and the current one) and platform (iOS/macOS)
   - The reason you picked in the app when canceling a subscription (one of "It's too expensive", "I don't use it much", "A feature I need is missing", or "Something isn't working") — at most once a day for the same reason, together with the app version and the date (by day only)
   - Purchase milestones: the day a free trial started, the day you were first actually charged and which plan (monthly, yearly, lifetime), the day you redeemed an offer code, the day a refund was confirmed, and the days a billing retry started and ended — all by day only. Only transactions verified by the App Store are used. Starting with version 3.1, a purchase also carries this installation's random statistics ID, so the transaction details Apple reports to us (product, price, currency, refund date and refund reason category) can be matched with that installation's usage statistics (first and last day opened, app version). These statistics never include your payment method, name, email, or advertising identifier (what goes to Meta is described under "Ad measurement — Meta" below).
@@ -151,7 +151,7 @@ SmallButBig（「本アプリ」）は、韓国で登録された個人事業者
   - どのタブ（Calendar・Review・Stats・Profile）を使ったか
   - どの機能（習慣・移動時間・繰り返し・チェックリスト）を使ったか
   - 持っているタスク数の**範囲**（例: `11-50`）— 正確な数は保存しません
-  - 日付は**日単位**（例: `2026-08-10`）でのみ記録します
+  - 日付は**日単位**（例: `2026-08-10`）でのみ記録し、時・分・秒は保存しません
   - アプリのバージョン（使い始めたときのバージョンと現在のバージョン）、プラットフォーム（iOS/macOS）
   - サブスクリプションを解約するときにアプリ内で選んだ理由（「料金が高い」「あまり使っていない」「欲しい機能がない」「不具合がある」のいずれか）— 同じ理由は1日に1回だけ、アプリのバージョン・日付（日単位）と一緒に
   - 購入の記録：無料体験を始めた日、初めて実際に課金された日とそのプラン（月額・年額・買い切り）、オファーコードを使った日、返金が確認された日、支払いの再試行が始まった日と終わった日 — いずれも日単位。App Store が確認した取引だけを使います。バージョン 3.1 からは、購入時にこのインストールの統計番号（ランダムな値）を一緒に送り、Apple から届く取引情報（商品、金額、通貨、返金日と返金理由の区分）を、そのインストールの利用統計（最初と最後に開いた日、アプリのバージョン）と結び付けます。この統計には支払い方法・名前・メールアドレス・広告識別子を送信も保存もしません（Meta に送るものは下の「広告の効果測定 — Meta」）。
@@ -215,7 +215,7 @@ SmallButBig（“本应用”）由在韩国注册的个体工商户 **SmallButB
   - 使用了哪些标签页（Calendar、Review、Stats、Profile）
   - 使用了哪些功能（习惯、出行时间、重复、子任务）
   - 待办数量所在的**区间**（如 `11-50`）——不记录准确数字
-  - 日期只记录到**天**（如 `2026-08-10`）
+  - 日期只记录到**天**（如 `2026-08-10`），不保存时、分、秒
   - 应用版本（开始使用时的版本和当前版本）、平台（iOS/macOS）
   - 取消订阅时你在应用内选择的原因（“太贵了”“不怎么用”“没有我想要的功能”“遇到了问题”之一）——同一原因每天只记录一次，并附上应用版本和日期（精确到天）
   - 购买记录：开始免费试用的日期、首次实际扣款的日期及其套餐（月度、年度、终身）、兑换优惠码的日期、确认退款的日期、扣款重试开始和结束的日期——都只记录到天。只使用经 App Store 验证的交易。从 3.1 版本起，购买时会附带本次安装的统计编号（随机值），以便将 Apple 告知我们的交易信息（商品、金额、币种、退款日期及退款原因类别）与该安装的使用统计（首次和最后一次打开的日期、应用版本）对应起来。这些统计不会发送或保存支付方式、姓名、电子邮件或广告标识符（发送给 Meta 的内容见下方“广告效果衡量 — Meta”）。
@@ -279,7 +279,7 @@ Alles, was du in der App schreibst (Termine, Aufgaben, Notizen), bleibt **auf de
   - Welche Tabs (Calendar, Review, Stats, Profile) du benutzt hast
   - Welche Funktionen (Gewohnheiten, Anfahrtszeit, Wiederholung, Checklisten) du benutzt hast
   - Eine **Spanne**, wie viele Aufgaben du hast (z. B. `11-50`) — nie die genaue Zahl
-  - Datumsangaben **nur tagesgenau** (z. B. `2026-08-10`)
+  - Datumsangaben **nur tagesgenau** (z. B. `2026-08-10`), ohne Stunde, Minute oder Sekunde
   - App-Version (die Version, mit der du angefangen hast, und die aktuelle) und Plattform (iOS/macOS)
   - Der Grund, den du beim Kündigen deines Abos in der App gewählt hast (einer von „Zu teuer“, „Ich nutze es kaum“, „Mir fehlt eine Funktion“ oder „Etwas funktioniert nicht“) — derselbe Grund höchstens einmal pro Tag, zusammen mit der App-Version und dem Datum (tagesgenau)
   - Kauf-Meilensteine: der Tag, an dem ein Gratis-Test begann, der Tag der ersten tatsächlichen Abbuchung und der Tarif (monatlich, jährlich, lebenslang), der Tag, an dem du einen Angebotscode eingelöst hast, der Tag einer bestätigten Rückerstattung sowie Beginn und Ende eines erneuten Abbuchungsversuchs — jeweils nur tagesgenau. Verwendet werden nur vom App Store bestätigte Transaktionen. Ab Version 3.1 wird bei einem Kauf zusätzlich die zufällige Statistik-ID dieser Installation mitgesendet, damit die Transaktionsangaben, die Apple uns meldet (Produkt, Preis, Währung, Erstattungsdatum und Kategorie des Erstattungsgrunds), mit der Nutzungsstatistik dieser Installation (erster und letzter Öffnungstag, App-Version) verknüpft werden können. In diese Statistik gelangen weder Zahlungsmittel noch Name, E-Mail-Adresse oder Werbe-ID (was an Meta geht, steht unten unter „Werbemessung — Meta“).
@@ -343,7 +343,7 @@ SmallButBig ("यह ऐप") को दक्षिण कोरिया म�
   - आपने कौन-से टैब (Calendar, Review, Stats, Profile) इस्तेमाल किए
   - आपने कौन-सी सुविधाएँ (आदत, यात्रा समय, दोहराव, चेकलिस्ट) इस्तेमाल कीं
   - आपके पास कितने काम हैं, उसका **दायरा** (जैसे `11-50`) — सटीक संख्या कभी नहीं
-  - तारीख़ सिर्फ़ **दिन के स्तर पर** (जैसे `2026-08-10`)
+  - तारीख़ सिर्फ़ **दिन के स्तर पर** (जैसे `2026-08-10`); घंटा, मिनट या सेकंड नहीं
   - ऐप का संस्करण (जिस संस्करण से आपने शुरुआत की और मौजूदा संस्करण) और प्लैटफ़ॉर्म (iOS/macOS)
   - सदस्यता रद्द करते समय आपने ऐप में जो वजह चुनी ("बहुत महँगा है", "इस्तेमाल कम होता है", "ज़रूरी फ़ीचर नहीं है" या "कुछ ठीक से नहीं चल रहा" में से एक) — एक ही वजह दिन में सिर्फ़ एक बार, ऐप के संस्करण और तारीख़ (दिन के स्तर पर) के साथ
   - खरीद से जुड़ी तारीख़ें: मुफ़्त ट्रायल शुरू होने का दिन, पहली बार असल में भुगतान कटने का दिन और उसका प्लान (मासिक, वार्षिक, लाइफ़टाइम), ऑफ़र कोड इस्तेमाल करने का दिन, रिफ़ंड पक्का होने का दिन, और भुगतान की दोबारा कोशिश शुरू व ख़त्म होने के दिन — सब सिर्फ़ दिन के स्तर पर। सिर्फ़ App Store से पुष्टि हुए लेन-देन ही देखे जाते हैं। वर्ज़न 3.1 से, खरीद के साथ इस इंस्टॉलेशन का एक रैंडम आँकड़ा नंबर भी भेजा जाता है, ताकि Apple जो लेन-देन की जानकारी हमें बताता है (प्रोडक्ट, क़ीमत, मुद्रा, रिफ़ंड की तारीख़ और रिफ़ंड की वजह की श्रेणी) उसे उसी इंस्टॉलेशन के इस्तेमाल के आँकड़ों (पहली और आख़िरी बार खोलने का दिन, ऐप वर्ज़न) से जोड़ा जा सके। इन आँकड़ों में भुगतान का तरीका, नाम, ईमेल या विज्ञापन पहचानकर्ता न भेजा जाता है, न सहेजा जाता है (Meta को क्या जाता है, यह नीचे "विज्ञापन का असर मापना — Meta" में है)।
